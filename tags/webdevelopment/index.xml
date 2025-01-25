@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Webdevelopment on Honore Niyomukiza LOB</title>
+    <link>/tags/webdevelopment/</link>
+    <description>Recent content in Webdevelopment on Honore Niyomukiza LOB</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 03 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/webdevelopment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Portifolio Site Update</title>
+      <link>/portfolio-site/</link>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/portfolio-site/</guid>
+      <description>&lt;p&gt;Portfolio site Loading&amp;hellip;
+![[screenshot_2025-01-03_10-12-47_070108960.png]]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Portifolio Site Update</title>
+      <link>/posts/portfolio-site/</link>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/portfolio-site/</guid>
+      <description>&lt;p&gt;Portfolio site Loading&amp;hellip;
+!&lt;img alt=&#34;Description&#34; loading=&#34;lazy&#34; src=&#34;/images/screenshot_2025-01-03_10-12-47_070108960.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
