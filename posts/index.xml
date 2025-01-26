@@ -6,14 +6,21 @@
     <description>Recent content in Posts on Honore Niyomukiza LOB</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sunday before Monday</title>
+      <link>/posts/3rd-week-here-i-come/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/3rd-week-here-i-come/</guid>
+      <description>&lt;p&gt;Cant believe its about to be three weeks already. already feel like ive been doing this for a while. ive never had to consume a language, framework and a whole field(backend) is such little time. at these pace, i wonder where i came reach in like 3months. well we&amp;rsquo;ll see&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Update After A Long Time</title>
       <link>/posts/long-time-update/</link>
       <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
       <guid>/posts/long-time-update/</guid>
-      <description>&lt;p&gt;Sorry for not posting of late, but a lot has happened. for starters i got the position at Probase.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Sorry for not posting of late, but a lot has happened. for starters i got the position at ProBase.&lt;/p&gt;</description>
     </item>
     <item>
       <title>night vibe</title>
@@ -63,13 +70,6 @@
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
       <guid>/posts/my-site/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve had this idea of having my own website to document all i do for quite some time now, and this will mark the first step toward that journey. From here on all my significant steps in my it life will all be marked here with as much efficiency and detail as i can. And bit inspiration from NetworkChuck, wouldn&amp;rsquo;t have started this journey now if it wasn&amp;rsquo;t for him starting his.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>probase test</title>
-      <link>/posts/probase-test/</link>
-      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/probase-test/</guid>
-      <description>&lt;p&gt;probase test&#xA;new&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
