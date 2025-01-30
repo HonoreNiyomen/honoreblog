@@ -1,26 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Thoughts on Honore Niyomukiza LOB</title>
+    <title>thoughts on Honore Niyomukiza LOB</title>
     <link>/tags/thoughts/</link>
-    <description>Recent content in Thoughts on Honore Niyomukiza LOB</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in thoughts on Honore Niyomukiza LOB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Smart Phone Race</title>
       <link>/phones/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      
       <guid>/phones/</guid>
-      <description>&lt;p&gt;Why do phones really have to be these stressing. from the time i moved on from the S20, i haven&amp;rsquo;t touched a single good phone. been trying to get one only ending up in dead ends. hopefully this weekend, one will be found and this long race will come to an end.&lt;/p&gt;</description>
+      <description>Why do phones really have to be these stressing. from the time i moved on from the S20, i haven&amp;rsquo;t touched a single good phone. been trying to get one only ending up in dead ends. hopefully this weekend, one will be found and this long race will come to an end.</description>
     </item>
+    
     <item>
       <title>The Smart Phone Race</title>
       <link>/posts/phones/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      
       <guid>/posts/phones/</guid>
-      <description>&lt;p&gt;Why do phones really have to be these stressing. from the time i moved on from the S20, i haven&amp;rsquo;t touched a single good phone. been trying to get one only ending up in dead ends. hopefully this weekend, one will be found and this long race will come to an end.&lt;/p&gt;</description>
+      <description>Why do phones really have to be these stressing. from the time i moved on from the S20, i haven&amp;rsquo;t touched a single good phone. been trying to get one only ending up in dead ends. hopefully this weekend, one will be found and this long race will come to an end.</description>
     </item>
+    
   </channel>
 </rss>
