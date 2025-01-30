@@ -1,0 +1,14 @@
+/home/honore/honoreblog/glibc-2.38/build/string/rtld-memcmp-evex-movbe.os: \
+ ../sysdeps/x86_64/multiarch/memcmp-evex-movbe.S ../include/stdc-predef.h \
+ /home/honore/honoreblog/glibc-2.38/build/libc-modules.h \
+ ../include/libc-symbols.h \
+ /home/honore/honoreblog/glibc-2.38/build/config.h \
+ ../sysdeps/generic/libc-symver.h ../sysdeps/generic/symbol-hacks.h \
+ ../sysdeps/x86/isa-level.h
+../include/stdc-predef.h:
+/home/honore/honoreblog/glibc-2.38/build/libc-modules.h:
+../include/libc-symbols.h:
+/home/honore/honoreblog/glibc-2.38/build/config.h:
+../sysdeps/generic/libc-symver.h:
+../sysdeps/generic/symbol-hacks.h:
+../sysdeps/x86/isa-level.h:

@@ -1,26 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Latenight on Honore Niyomukiza LOB</title>
+    <title>latenight on Honore Niyomukiza LOB</title>
     <link>/tags/latenight/</link>
-    <description>Recent content in Latenight on Honore Niyomukiza LOB</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/latenight/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in latenight on Honore Niyomukiza LOB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/latenight/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>night vibe</title>
       <link>/moment/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+      
       <guid>/moment/</guid>
-      <description>&lt;p&gt;woopsie made a oopsie&#xA;![[screenshot_2025-01-06_20-24-23_866970453.png]]&#xA;looking forward to seeing this and getting but to listening and watching this art again.&lt;/p&gt;</description>
+      <description>woopsie made a oopsie ![[screenshot_2025-01-06_20-24-23_866970453.png]] looking forward to seeing this and getting but to listening and watching this art again.</description>
     </item>
+    
     <item>
       <title>night vibe</title>
       <link>/posts/moment/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+      
       <guid>/posts/moment/</guid>
-      <description>&lt;p&gt;woopsie made a oopsie&#xA;!&lt;img src=&#34;/images/screenshot_2025-01-06_20-24-23_866970453.png&#34; alt=&#34;Description&#34;&gt;&#xA;looking forward to seeing this and getting but to listening and watching this art again.&lt;/p&gt;</description>
+      <description>woopsie made a oopsie ! looking forward to seeing this and getting but to listening and watching this art again.</description>
     </item>
+    
   </channel>
 </rss>

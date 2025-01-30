@@ -4,72 +4,89 @@
     <title>Tags on Honore Niyomukiza LOB</title>
     <link>/tags/</link>
     <description>Recent content in Tags on Honore Niyomukiza LOB</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog</title>
+      <title>blog</title>
       <link>/tags/blog/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      
       <guid>/tags/blog/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Thoughts</title>
+      <title>thoughts</title>
       <link>/tags/thoughts/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      
       <guid>/tags/thoughts/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Work</title>
+      <title>work</title>
       <link>/tags/work/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      
       <guid>/tags/work/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Latenight</title>
+      <title>latenight</title>
       <link>/tags/latenight/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+      
       <guid>/tags/latenight/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>HoresiusmSway</title>
       <link>/tags/horesiusmsway/</link>
       <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      
       <guid>/tags/horesiusmsway/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>IUseArchBTW</title>
       <link>/tags/iusearchbtw/</link>
       <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      
       <guid>/tags/iusearchbtw/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Webdevelopment</title>
+      <title>webdevelopment</title>
       <link>/tags/webdevelopment/</link>
       <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      
       <guid>/tags/webdevelopment/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Holiday</title>
+      <title>holiday</title>
       <link>/tags/holiday/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      
       <guid>/tags/holiday/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>NetworkChuck</title>
       <link>/tags/networkchuck/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      
       <guid>/tags/networkchuck/</guid>
       <description></description>
     </item>
+    
   </channel>
 </rss>

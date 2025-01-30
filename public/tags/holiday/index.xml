@@ -1,40 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Holiday on Honore Niyomukiza LOB</title>
+    <title>holiday on Honore Niyomukiza LOB</title>
     <link>/tags/holiday/</link>
-    <description>Recent content in Holiday on Honore Niyomukiza LOB</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/holiday/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in holiday on Honore Niyomukiza LOB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/holiday/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2024 New Year&#39;s Eve</title>
       <link>/new-years-eve/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      
       <guid>/new-years-eve/</guid>
-      <description>&lt;p&gt;Last Day of ever being in 2024!!&#xA;Lot have happened during this year, from personal event, family events all the way up to global events, yet we are here to close up the year and say hello to 2025!&#xA;Happy New year to all, in advance. hope to see you over the other side.&#xA;![[newyearseve.jpeg]]&#xA;Cheers to yet another year completed😌.&lt;/p&gt;</description>
+      <description>Last Day of ever being in 2024!! Lot have happened during this year, from personal event, family events all the way up to global events, yet we are here to close up the year and say hello to 2025! Happy New year to all, in advance. hope to see you over the other side. ![[newyearseve.jpeg]] Cheers to yet another year completed😌.</description>
     </item>
+    
     <item>
       <title>2024 New Year&#39;s Eve</title>
       <link>/posts/new-years-eve/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      
       <guid>/posts/new-years-eve/</guid>
-      <description>&lt;p&gt;Last Day of ever being in 2024!!&#xA;Lot have happened during this year, from personal event, family events all the way up to global events, yet we are here to close up the year and say hello to 2025!&#xA;Happy New year to all, in advance. hope to see you over the other side.&#xA;!&lt;img src=&#34;/images/newyearseve.jpeg&#34; alt=&#34;Description&#34;&gt;&#xA;Cheers to yet another year completed😌.&lt;/p&gt;</description>
+      <description>Last Day of ever being in 2024!! Lot have happened during this year, from personal event, family events all the way up to global events, yet we are here to close up the year and say hello to 2025! Happy New year to all, in advance. hope to see you over the other side. ! Cheers to yet another year completed😌.</description>
     </item>
+    
     <item>
       <title>2024 Christmas Eve</title>
       <link>/happy-holidays/</link>
       <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      
       <guid>/happy-holidays/</guid>
-      <description>&lt;p&gt;Hello, Christmas eve has arrived and the new year is just around the corner. 2025, here we come.&lt;/p&gt;&#xA;&lt;p&gt;This is also my first day of brain storming web-application ideas. more on the project in the later updates.&lt;/p&gt;&#xA;&lt;p&gt;Happy Holidays to Family and All.&lt;/p&gt;</description>
+      <description>Hello, Christmas eve has arrived and the new year is just around the corner. 2025, here we come.
+This is also my first day of brain storming web-application ideas. more on the project in the later updates.
+Happy Holidays to Family and All.</description>
     </item>
+    
     <item>
       <title>2024 Christmas Eve</title>
       <link>/posts/happy-holidays/</link>
       <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      
       <guid>/posts/happy-holidays/</guid>
-      <description>&lt;p&gt;Hello, Christmas eve has arrived and the new year is just around the corner. 2025, here we come.&lt;/p&gt;&#xA;&lt;p&gt;This is also my first day of brain storming web-application ideas. more on the project in the later updates.&lt;/p&gt;&#xA;&lt;p&gt;Happy Holidays to Family and All.&lt;/p&gt;</description>
+      <description>Hello, Christmas eve has arrived and the new year is just around the corner. 2025, here we come.
+This is also my first day of brain storming web-application ideas. more on the project in the later updates.
+Happy Holidays to Family and All.</description>
     </item>
+    
   </channel>
 </rss>

@@ -1,0 +1,15 @@
+/home/honore/honoreblog/glibc-2.38/build/string/rtld-memmove-avx-unaligned-erms.os: \
+ ../sysdeps/x86_64/multiarch/memmove-avx-unaligned-erms.S \
+ ../include/stdc-predef.h \
+ /home/honore/honoreblog/glibc-2.38/build/libc-modules.h \
+ ../include/libc-symbols.h \
+ /home/honore/honoreblog/glibc-2.38/build/config.h \
+ ../sysdeps/generic/libc-symver.h ../sysdeps/generic/symbol-hacks.h \
+ ../sysdeps/x86/isa-level.h
+../include/stdc-predef.h:
+/home/honore/honoreblog/glibc-2.38/build/libc-modules.h:
+../include/libc-symbols.h:
+/home/honore/honoreblog/glibc-2.38/build/config.h:
+../sysdeps/generic/libc-symver.h:
+../sysdeps/generic/symbol-hacks.h:
+../sysdeps/x86/isa-level.h:

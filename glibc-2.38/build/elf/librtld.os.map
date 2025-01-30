@@ -1,0 +1,1758 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-check_fds.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (__libc_check_standard_fds)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-errno.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (rtld_errno)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-closedir.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (__closedir)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-rewinddir.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (__rewinddir)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-readdir64.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (__readdir64)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fdopendir.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (__fdopendir)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-getdents64.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-readdir64.os) (__getdents64)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (_dl_addr_inside_object)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-profil.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (__profil)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-prof-freq.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (__profile_frequency)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-access.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (__access)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fstat64.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (__GI___fstat64)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fstatat64.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (__GI___fstatat64)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lseek64.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (__lseek)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lstat64.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (__GI___lstat64)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-openat64.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (__openat64)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-stat64.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (__GI___stat64)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (__GI___close_nocancel)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (__GI___fcntl64_nocancel)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (__GI___open64_nocancel)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (__GI___pread64_nocancel)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (__GI___read_nocancel)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (__GI___write_nocancel)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (__libc_scratch_buffer_set_array_size)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-mmap64.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (__mmap)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-mprotect.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (__mprotect)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-munmap.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (__munmap)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (__lll_lock_wait_private)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-_exit.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (__GI__exit)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-getpid.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (__getpid)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-uname.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (__uname)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-environ.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (__environ)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-setjmp.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (__sigsetjmp)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-__longjmp.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (__longjmp)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-sigaction.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-profil.os) (__sigaction)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-sigaction.os) (__libc_sigaction)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memchr.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (memchr)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memcmp.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (memcmp)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memmove.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (__mempcpy)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memset.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (memset)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-stpcpy.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (__stpcpy)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strchr.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (strchr)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strcmp.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (strcmp)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strcspn.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (strcspn)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strdup.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (__strdup)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (strerrorname_np)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strlen.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (strlen)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strncmp.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (strncmp)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strnlen.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os (strnlen)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strchrnul.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strcspn.os) (__strchrnul)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-setitimer.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-profil.os) (__setitimer)
+/home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-errname.os)
+                              /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strerrorname_np.os) (__get_errname)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+START GROUP
+LOAD /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os
+LOAD /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a
+LOAD /usr/lib/gcc/x86_64-linux-gnu/12/libgcc.a
+END GROUP
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rela.init
+ *(.rela.init)
+
+.rela.text
+ *(.rela.text)
+
+.rela.fini
+ *(.rela.fini)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rela.data
+ *(.rela.data)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rela.got
+ *(.rela.got)
+
+.rela.bss
+ *(.rela.bss)
+
+.rela.ldata
+ *(.rela.ldata)
+
+.rela.lbss
+ *(.rela.lbss)
+
+.rela.lrodata
+ *(.rela.lrodata)
+
+.rela.ifunc
+ *(.rela.ifunc)
+
+.rela.plt
+ *(.rela.plt)
+
+.relr.dyn
+ *(.relr.dyn)
+
+.init
+ *(SORT_NONE(.init))
+
+.plt
+ *(.plt)
+
+.plt.got
+ *(.plt.got)
+
+.plt.sec
+ *(.plt.sec)
+
+.text           0x0000000000000000    0x23f53
+ *(.text .stub)
+ .text          0x0000000000000000    0x1ec9c /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os
+                0x0000000000000000                _dl_call_libc_early_init
+                0x0000000000000080                _dl_call_fini
+                0x00000000000001b0                _dl_signal_exception
+                0x00000000000001b0                __GI__dl_signal_exception
+                0x0000000000000210                __GI__dl_signal_error
+                0x0000000000000210                _dl_signal_error
+                0x0000000000000280                _dl_signal_cexception
+                0x0000000000000300                _dl_signal_cerror
+                0x0000000000000380                _dl_receive_error
+                0x0000000000000410                _dl_catch_exception
+                0x0000000000000410                __GI__dl_catch_exception
+                0x0000000000000590                _dl_catch_error
+                0x00000000000006f0                _dl_close_worker
+                0x0000000000001460                _dl_close
+                0x00000000000014d0                _dl_debug_state
+                0x00000000000014d0                __GI__dl_debug_state
+                0x00000000000014e0                _dl_debug_update
+                0x0000000000001530                _dl_debug_initialize
+                0x00000000000016e0                _dl_map_object_deps
+                0x00000000000026b0                _dl_error_free
+                0x00000000000026d0                _dl_exception_create
+                0x00000000000026d0                __GI__dl_exception_create
+                0x00000000000027a0                __GI__dl_exception_create_format
+                0x00000000000027a0                _dl_exception_create_format
+                0x0000000000002c10                _dl_exception_free
+                0x0000000000002c10                __GI__dl_exception_free
+                0x0000000000002c30                _dl_make_stacks_executable
+                0x0000000000002da0                __GI___nptl_change_stack_perm
+                0x0000000000002da0                __nptl_change_stack_perm
+                0x0000000000002fe0                __GI__dl_find_object
+                0x0000000000002fe0                _dl_find_object
+                0x0000000000003320                _dlfo_sort_mappings
+                0x00000000000033c0                _dl_find_object_init
+                0x0000000000003570                _dl_find_object_update
+                0x0000000000003a60                _dl_find_object_dlclose
+                0x0000000000003b30                _dl_find_object_freeres
+                0x0000000000003ba0                _dl_fini
+                0x0000000000003f50                _dl_init
+                0x0000000000004de0                _dl_dst_count
+                0x0000000000004e80                _dl_dst_substitute
+                0x00000000000055e0                _dl_init_paths
+                0x0000000000005910                _dl_process_pt_gnu_property
+                0x00000000000072d0                _dl_map_object
+                0x0000000000007df0                _dl_rtld_di_serinfo
+                0x0000000000008de0                _dl_lookup_symbol_x
+                0x00000000000099b0                _dl_lookup_direct
+                0x0000000000009b50                __minimal_malloc
+                0x0000000000009c70                __minimal_calloc
+                0x0000000000009cb0                __minimal_free
+                0x0000000000009cf0                __minimal_realloc
+                0x0000000000009d80                _dl_sysdep_read_whole_file
+                0x0000000000009e10                _dl_name_match_p
+                0x0000000000009e70                _dl_higher_prime_number
+                0x0000000000009ec0                _dl_strtoul
+                0x000000000000a020                _dl_add_to_namespace_list
+                0x000000000000a0c0                _dl_new_object
+                0x000000000000a900                __GI__dl_find_dso_for_object
+                0x000000000000a900                _dl_find_dso_for_object
+                0x000000000000a9d0                _dl_open
+                0x000000000000acc0                _dl_show_scope
+                0x000000000000b840                _dl_get_origin
+                0x000000000000c020                _dl_debug_printf
+                0x000000000000c0d0                _dl_debug_printf_c
+                0x000000000000c180                _dl_dprintf
+                0x000000000000c220                _dl_printf
+                0x000000000000c2c0                _dl_error_printf
+                0x000000000000c360                _dl_fatal_printf
+                0x000000000000c360                __GI__dl_fatal_printf
+                0x000000000000c400                _dl_start_profile
+                0x000000000000cb50                __GI__dl_mcount
+                0x000000000000cb50                _dl_mcount
+                0x000000000000cd30                _dl_try_allocate_static_tls
+                0x000000000000ce50                _dl_allocate_static_tls
+                0x000000000000ce80                _dl_protect_relro
+                0x000000000000cee0                _dl_reloc_bad_type
+                0x000000000000cfb0                _dl_relocate_object
+                0x000000000000f1c0                _dl_fixup
+                0x000000000000f470                _dl_profile_fixup
+                0x000000000000f7c0                _dl_scope_free
+                0x000000000000f890                _dl_setup_hash
+                0x000000000000fa30                _dl_sort_maps_init
+                0x000000000000fa60                _dl_sort_maps
+                0x000000000000fec0                __thread_gscope_wait
+                0x0000000000010350                _dl_tls_static_surplus_init
+                0x00000000000103e0                _dl_assign_tls_modid
+                0x00000000000104f0                _dl_count_modids
+                0x0000000000010560                _dl_determine_tlsoffset
+                0x0000000000010720                _dl_get_tls_static_info
+                0x0000000000010740                _dl_allocate_tls_storage
+                0x00000000000107e0                __GI__dl_allocate_tls_init
+                0x00000000000107e0                _dl_allocate_tls_init
+                0x0000000000010a80                __GI__dl_allocate_tls
+                0x0000000000010a80                _dl_allocate_tls
+                0x0000000000010ac0                _dl_deallocate_tls
+                0x0000000000010ac0                __GI__dl_deallocate_tls
+                0x0000000000010b40                _dl_update_slotinfo
+                0x0000000000010da0                __GI___tls_get_addr
+                0x0000000000010da0                ___tls_get_addr
+                0x0000000000010de0                _dl_tls_get_addr_soft
+                0x0000000000010e60                _dl_add_to_slotinfo
+                0x0000000000010f80                _dl_init_static_tls
+                0x00000000000110b0                __tls_get_addr_slow
+                0x00000000000110f0                __tls_pre_init_tp
+                0x0000000000011150                __tls_init_tp
+                0x0000000000011280                _dl_runtime_profile_sse
+                0x0000000000011410                _dl_runtime_resolve_fxsave
+                0x0000000000011490                _dl_runtime_resolve_xsave
+                0x0000000000011560                _dl_runtime_resolve_xsavec
+                0x0000000000011720                __GI___tunable_set_val
+                0x0000000000011740                __GI___tunables_init
+                0x0000000000011d50                __GI___tunables_print
+                0x0000000000011e60                __tunable_get_val
+                0x0000000000011e60                __GI___tunable_get_val
+                0x0000000000011ed0                _dl_check_map_versions
+                0x00000000000127b0                _dl_check_all_versions
+                0x0000000000012820                _dl_write
+                0x0000000000012830                _dl_cache_libcmp
+                0x0000000000013040                _dl_load_cache_lookup
+                0x0000000000013380                _dl_unload_cache
+                0x00000000000133d0                _dl_make_tlsdesc_dynamic
+                0x0000000000013680                _dl_unmap
+                0x0000000000013700                _dl_tlsdesc_return
+                0x0000000000013710                _dl_tlsdesc_undefweak
+                0x0000000000013720                _dl_tlsdesc_dynamic
+                0x00000000000137c0                __tls_get_addr
+                0x0000000000015ae0                __x86_cpu_features
+                0x0000000000015b00                _dl_x86_init_cpu_features
+                0x0000000000015b20                _dl_x86_get_cpu_features
+                0x0000000000015b30                _dl_audit_activity_map
+                0x0000000000015bd0                _dl_audit_activity_nsid
+                0x0000000000015c10                _dl_audit_objsearch
+                0x0000000000015ce0                _dl_audit_objopen
+                0x0000000000015db0                _dl_audit_objclose
+                0x0000000000015e60                _dl_audit_preinit
+                0x0000000000015ef0                _dl_audit_symbind_alt
+                0x0000000000015ef0                __GI__dl_audit_symbind_alt
+                0x00000000000160d0                _dl_audit_symbind
+                0x0000000000016380                _dl_audit_pltenter
+                0x00000000000165c0                _dl_audit_pltexit
+                0x00000000000167c0                _dl_diagnostics_print_string
+                0x0000000000016840                _dl_diagnostics_print_labeled_string
+                0x0000000000016880                _dl_diagnostics_print_labeled_value
+                0x00000000000168a0                _dl_print_diagnostics
+                0x0000000000016ca0                _dl_diagnostics_cpu
+                0x00000000000173e0                _dl_diagnostics_kernel
+                0x0000000000017480                _dl_next_ld_env_entry
+                0x00000000000174d0                unsetenv
+                0x00000000000175f0                _dl_important_hwcaps
+                0x0000000000017980                _dl_hwcaps_subdirs_active
+                0x0000000000017a60                _dl_hwcaps_split
+                0x0000000000017b00                _dl_hwcaps_contains
+                0x0000000000017bb0                _dl_hwcaps_split_masked
+                0x0000000000017bf0                __rtld_libc_freeres
+                0x0000000000017c00                __rtld_malloc_init_stubs
+                0x0000000000017c40                __sigjmp_save
+                0x0000000000017c50                __strerror_r
+                0x0000000000017d40                __GI___libc_fatal
+                0x0000000000017d40                __libc_fatal
+                0x0000000000017d60                __GI___chk_fail
+                0x0000000000017d60                __chk_fail
+                0x0000000000017d70                __GI___assert_fail
+                0x0000000000017d70                __assert_fail
+                0x0000000000017da0                __rtld_malloc_is_complete
+                0x0000000000017eb0                __rtld_malloc_init_real
+                0x0000000000017fa0                __GI___assert_perror_fail
+                0x0000000000017fa0                __assert_perror_fail
+                0x0000000000018000                _itoa
+                0x0000000000018060                __strsep
+                0x0000000000018060                strsep
+                0x0000000000018060                __strsep_g
+                0x00000000000180f0                __rtld_mutex_init
+                0x0000000000018370                _dl_tunable_set_hwcaps
+                0x0000000000018df0                _dl_sysdep_start
+                0x0000000000018eb0                _dl_sysdep_start_cleanup
+                0x0000000000018ec0                _dl_show_auxv
+                0x0000000000019110                _dl_usage
+                0x0000000000019160                _dl_version
+                0x0000000000019180                _dl_help
+                0x0000000000019430                _start
+                0x0000000000019438                _dl_start_user
+                0x000000000001a760                handle_preload_list
+                0x000000000001e440                __brk
+                0x000000000001e440                brk
+                0x000000000001e470                __getcwd
+                0x000000000001e470                getcwd
+                0x000000000001ea60                openat64
+                0x000000000001eac0                __alloc_dir
+                0x000000000001eb90                __opendir
+                0x000000000001eb90                opendir
+                0x000000000001ec20                sbrk
+                0x000000000001ec20                __sbrk
+ *fill*         0x000000000001ec9c        0x4 
+ .text          0x000000000001eca0       0xd2 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-check_fds.os)
+                0x000000000001ed40                __libc_check_standard_fds
+ .text          0x000000000001ed72        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-errno.os)
+ *fill*         0x000000000001ed72        0xe 
+ .text          0x000000000001ed80       0x26 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-closedir.os)
+                0x000000000001ed80                __closedir
+                0x000000000001ed80                closedir
+ *fill*         0x000000000001eda6        0xa 
+ .text          0x000000000001edb0       0x28 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-rewinddir.os)
+                0x000000000001edb0                rewinddir
+                0x000000000001edb0                __rewinddir
+ *fill*         0x000000000001edd8        0x8 
+ .text          0x000000000001ede0       0x8a /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-readdir64.os)
+                0x000000000001ede0                readdir
+                0x000000000001ede0                __readdir64
+                0x000000000001ede0                __readdir
+                0x000000000001ede0                readdir64
+ *fill*         0x000000000001ee6a        0x6 
+ .text          0x000000000001ee70       0x7e /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fdopendir.os)
+                0x000000000001ee70                fdopendir
+                0x000000000001ee70                __fdopendir
+ *fill*         0x000000000001eeee        0x2 
+ .text          0x000000000001eef0       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-getdents64.os)
+                0x000000000001eef0                __getdents
+                0x000000000001eef0                getdents64
+                0x000000000001eef0                __getdents64
+ .text          0x000000000001ef20       0x7b /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+                0x000000000001ef20                _dl_addr_inside_object
+ *fill*         0x000000000001ef9b        0x5 
+ .text          0x000000000001efa0       0xf7 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-profil.os)
+                0x000000000001eff0                __profil
+                0x000000000001eff0                profil
+ *fill*         0x000000000001f097        0x9 
+ .text          0x000000000001f0a0        0x7 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-prof-freq.os)
+                0x000000000001f0a0                __profile_frequency
+ *fill*         0x000000000001f0a7        0x9 
+ .text          0x000000000001f0b0       0x1e /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-access.os)
+                0x000000000001f0b0                access
+                0x000000000001f0b0                __access
+ *fill*         0x000000000001f0ce        0x2 
+ .text          0x000000000001f0d0       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fstat64.os)
+                0x000000000001f0d0                __GI___fstat64
+                0x000000000001f0d0                fstat64
+                0x000000000001f0d0                fstat
+                0x000000000001f0d0                __fstat64
+                0x000000000001f0d0                __fstat
+ .text          0x000000000001f100       0x26 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fstatat64.os)
+                0x000000000001f100                fstatat
+                0x000000000001f100                __fstatat
+                0x000000000001f100                fstatat64
+                0x000000000001f100                __fstatat64
+                0x000000000001f100                __GI___fstatat
+                0x000000000001f100                __GI___fstatat64
+ *fill*         0x000000000001f126        0xa 
+ .text          0x000000000001f130       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lseek64.os)
+                0x000000000001f130                __lseek64
+                0x000000000001f130                lseek
+                0x000000000001f130                __libc_lseek64
+                0x000000000001f130                __lseek
+                0x000000000001f130                __libc_lseek
+                0x000000000001f130                lseek64
+ .text          0x000000000001f150       0x15 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lstat64.os)
+                0x000000000001f150                __lstat64
+                0x000000000001f150                lstat
+                0x000000000001f150                lstat64
+                0x000000000001f150                __GI___lstat64
+                0x000000000001f150                __lstat
+ *fill*         0x000000000001f165        0xb 
+ .text          0x000000000001f170       0x66 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-openat64.os)
+                0x000000000001f170                __openat64
+                0x000000000001f170                __libc_openat64
+                0x000000000001f170                __openat
+                0x000000000001f170                openat
+ *fill*         0x000000000001f1d6        0xa 
+ .text          0x000000000001f1e0       0x12 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-stat64.os)
+                0x000000000001f1e0                stat64
+                0x000000000001f1e0                __stat
+                0x000000000001f1e0                __stat64
+                0x000000000001f1e0                stat
+                0x000000000001f1e0                __GI___stat64
+ *fill*         0x000000000001f1f2        0xe 
+ .text          0x000000000001f200       0x1e /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+                0x000000000001f200                __GI___close_nocancel
+ *fill*         0x000000000001f21e        0x2 
+ .text          0x000000000001f220       0xce /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+                0x000000000001f220                __fcntl64_nocancel
+                0x000000000001f220                __GI___fcntl64_nocancel
+                0x000000000001f2a0                __fcntl64_nocancel_adjusted
+ *fill*         0x000000000001f2ee        0x2 
+ .text          0x000000000001f2f0       0x76 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+                0x000000000001f2f0                __GI___open_nocancel
+                0x000000000001f2f0                __open_nocancel
+                0x000000000001f2f0                __GI___open64_nocancel
+                0x000000000001f2f0                __open64_nocancel
+ *fill*         0x000000000001f366        0xa 
+ .text          0x000000000001f370       0x28 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+                0x000000000001f370                __GI___pread64_nocancel
+                0x000000000001f370                __pread64_nocancel
+ *fill*         0x000000000001f398        0x8 
+ .text          0x000000000001f3a0       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+                0x000000000001f3a0                __read_nocancel
+                0x000000000001f3a0                __GI___read_nocancel
+ .text          0x000000000001f3c0       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+                0x000000000001f3c0                __GI___write_nocancel
+                0x000000000001f3c0                __write_nocancel
+ .text          0x000000000001f3e0       0xaf /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+                0x000000000001f3e0                __libc_scratch_buffer_set_array_size
+ *fill*         0x000000000001f48f        0x1 
+ .text          0x000000000001f490       0x99 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-mmap64.os)
+                0x000000000001f490                __mmap
+                0x000000000001f490                mmap
+                0x000000000001f490                __mmap64
+                0x000000000001f490                mmap64
+ *fill*         0x000000000001f529        0x7 
+ .text          0x000000000001f530       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-mprotect.os)
+                0x000000000001f530                __mprotect
+                0x000000000001f530                __GI___mprotect
+                0x000000000001f530                __GI_mprotect
+                0x000000000001f530                mprotect
+ .text          0x000000000001f550       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-munmap.os)
+                0x000000000001f550                munmap
+                0x000000000001f550                __GI___munmap
+                0x000000000001f550                __GI_munmap
+                0x000000000001f550                __munmap
+ .text          0x000000000001f570       0xe4 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+                0x000000000001f570                __lll_lock_wait_private
+                0x000000000001f5c0                __lll_lock_wait
+                0x000000000001f620                __lll_lock_wake_private
+                0x000000000001f640                __lll_lock_wake
+ *fill*         0x000000000001f654        0xc 
+ .text          0x000000000001f660       0x27 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-_exit.os)
+                0x000000000001f660                _Exit
+                0x000000000001f660                __GI__exit
+                0x000000000001f660                _exit
+ *fill*         0x000000000001f687        0x9 
+ .text          0x000000000001f690        0x8 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-getpid.os)
+                0x000000000001f690                __getpid
+                0x000000000001f690                getpid
+                0x000000000001f690                __GI_getpid
+                0x000000000001f690                __GI___getpid
+ *fill*         0x000000000001f698        0x8 
+ .text          0x000000000001f6a0       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-uname.os)
+                0x000000000001f6a0                uname
+                0x000000000001f6a0                __GI_uname
+                0x000000000001f6a0                __uname
+                0x000000000001f6a0                __GI___uname
+ .text          0x000000000001f6c0        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-environ.os)
+ .text          0x000000000001f6c0       0x4f /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-setjmp.os)
+                0x000000000001f6c0                __sigsetjmp
+                0x000000000001f6c0                __GI___sigsetjmp
+ *fill*         0x000000000001f70f        0x1 
+ .text          0x000000000001f710       0x4a /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-__longjmp.os)
+                0x000000000001f710                __longjmp
+ *fill*         0x000000000001f75a        0x6 
+ .text          0x000000000001f760       0x28 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-sigaction.os)
+                0x000000000001f760                sigaction
+                0x000000000001f760                __sigaction
+ *fill*         0x000000000001f788        0x8 
+ .text          0x000000000001f790      0x1a7 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+                0x000000000001f7b0                __libc_sigaction
+ *fill*         0x000000000001f937        0x9 
+ .text          0x000000000001f940      0x323 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memchr.os)
+                0x000000000001f940                memchr
+                0x000000000001f940                __memchr
+ *fill*         0x000000000001fc63       0x1d 
+ .text          0x000000000001fc80      0x2d0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memcmp.os)
+                0x000000000001fc80                bcmp
+                0x000000000001fc80                memcmp
+ .text          0x000000000001ff50      0x1e1 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memmove.os)
+                0x000000000001ff50                mempcpy
+                0x000000000001ff50                __mempcpy
+                0x000000000001ff60                memmove
+                0x000000000001ff60                memcpy
+ *fill*         0x0000000000020131        0xf 
+ .text          0x0000000000020140       0xc9 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memset.os)
+                0x0000000000020140                memset
+ *fill*         0x0000000000020209        0x7 
+ .text          0x0000000000020210      0x6b0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-stpcpy.os)
+                0x0000000000020210                stpcpy
+                0x0000000000020210                __stpcpy
+ .text          0x00000000000208c0      0x21a /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strchr.os)
+                0x00000000000208c0                index
+                0x00000000000208c0                strchr
+ *fill*         0x0000000000020ada        0x6 
+ .text          0x0000000000020ae0     0x1439 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strcmp.os)
+                0x0000000000020ae0                strcmp
+ *fill*         0x0000000000021f19        0x7 
+ .text          0x0000000000021f20      0x157 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strcspn.os)
+                0x0000000000021f20                strcspn
+ *fill*         0x0000000000022077        0x9 
+ .text          0x0000000000022080       0x41 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strdup.os)
+                0x0000000000022080                __strdup
+                0x0000000000022080                strdup
+ *fill*         0x00000000000220c1        0xf 
+ .text          0x00000000000220d0        0x5 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+                0x00000000000220d0                strerrorname_np
+ *fill*         0x00000000000220d5        0xb 
+ .text          0x00000000000220e0      0x19c /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strlen.os)
+                0x00000000000220e0                strlen
+ *fill*         0x000000000002227c        0x4 
+ .text          0x0000000000022280     0x1849 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strncmp.os)
+                0x0000000000022280                strncmp
+ *fill*         0x0000000000023ac9        0x7 
+ .text          0x0000000000023ad0      0x218 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strnlen.os)
+                0x0000000000023ad0                __strnlen
+                0x0000000000023ad0                strnlen
+ *fill*         0x0000000000023ce8        0x8 
+ .text          0x0000000000023cf0      0x20a /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strchrnul.os)
+                0x0000000000023cf0                __strchrnul
+                0x0000000000023cf0                strchrnul
+ *fill*         0x0000000000023efa        0x6 
+ .text          0x0000000000023f00       0x1e /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-setitimer.os)
+                0x0000000000023f00                setitimer
+                0x0000000000023f00                __setitimer
+ *fill*         0x0000000000023f1e        0x2 
+ .text          0x0000000000023f20       0x33 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-errname.os)
+                0x0000000000023f20                __get_errname
+ *(.gnu.warning)
+
+.text.evex512   0x0000000000000000      0x3f9
+ .text.evex512  0x0000000000000000      0x3f9 /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os
+                0x0000000000000000                _dl_runtime_profile_avx512
+
+.text.avx       0x0000000000000000      0x3eb
+ .text.avx      0x0000000000000000      0x3eb /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os
+                0x0000000000000000                _dl_runtime_profile_avx
+
+.text.compat    0x0000000000000000        0x1
+ .text.compat   0x0000000000000000        0x1 /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os
+                0x0000000000000000                __rtld_version_placeholder_1
+                0x0000000000000000                __rtld_version_placeholder@GLIBC_2.34
+
+.fini
+ *(SORT_NONE(.fini))
+
+.rodata         0x0000000000000000     0x1855
+ *(.rodata)
+ .rodata        0x0000000000000000     0x11d2 /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os
+ .rodata        0x00000000000011d2       0x80 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ *fill*         0x0000000000001252        0x6 
+ .rodata        0x0000000000001258       0x40 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .rodata        0x0000000000001298       0x40 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strncmp.os)
+ *fill*         0x00000000000012d8        0x8 
+ .rodata        0x00000000000012e0      0x575 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-errname.os)
+
+.rodata.str1.1  0x0000000000000000     0x17c8
+ .rodata.str1.1
+                0x0000000000000000     0x17b3 /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os
+ .rodata.str1.1
+                0x00000000000017b3       0x14 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .rodata.str1.1
+                0x00000000000017c7        0x1 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fstat64.os)
+
+.rodata.str1.16
+                0x0000000000000000      0x545
+ .rodata.str1.16
+                0x0000000000000000      0x545 /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os
+                0x00000000000003b0                _dl_hwcaps_subdirs
+                0x0000000000000410                __GI__itoa_lower_digits
+                0x0000000000000410                _itoa_lower_digits
+
+.rodata.str1.8  0x0000000000000000     0x2dff
+ .rodata.str1.8
+                0x0000000000000000     0x2dc1 /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os
+ *fill*         0x0000000000002dc1        0x7 
+ .rodata.str1.8
+                0x0000000000002dc8       0x37 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+
+.rodata.str1.32
+                0x0000000000000000       0x5b
+ .rodata.str1.32
+                0x0000000000000000       0x5b /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os
+
+.rodata.cst4    0x0000000000000000        0x8
+ .rodata.cst4   0x0000000000000000        0x8 /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os
+                0x0000000000000004                __rseq_flags
+
+.rodata.cst2    0x0000000000000000        0x4
+ .rodata.cst2   0x0000000000000000        0x4 /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os
+
+.rodata.cst16   0x0000000000000000       0x30
+ .rodata.cst16  0x0000000000000000       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os
+
+.rodata.cst8    0x0000000000000000        0x8
+ .rodata.cst8   0x0000000000000000        0x8 /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x0000000000000000     0x3dd4
+ *(.eh_frame)
+ .eh_frame      0x0000000000000000     0x3258 /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os
+                                       0x32d0 (size before relaxing)
+ .eh_frame      0x0000000000003258       0x68 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .eh_frame      0x00000000000032c0       0x38 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-closedir.os)
+ .eh_frame      0x00000000000032f8       0x38 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .eh_frame      0x0000000000003330       0x48 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .eh_frame      0x0000000000003378       0x48 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .eh_frame      0x00000000000033c0       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .eh_frame      0x00000000000033f0       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .eh_frame      0x0000000000003420       0x48 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-profil.os)
+ .eh_frame      0x0000000000003468       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .eh_frame      0x0000000000003498       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-access.os)
+ .eh_frame      0x00000000000034c8       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .eh_frame      0x00000000000034f8       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .eh_frame      0x0000000000003528       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .eh_frame      0x0000000000003558       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .eh_frame      0x0000000000003588       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-openat64.os)
+ .eh_frame      0x00000000000035b8       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-stat64.os)
+ .eh_frame      0x00000000000035e8       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .eh_frame      0x0000000000003618       0x40 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .eh_frame      0x0000000000003658       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .eh_frame      0x0000000000003688       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .eh_frame      0x00000000000036b8       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .eh_frame      0x00000000000036e8       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .eh_frame      0x0000000000003718       0x58 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .eh_frame      0x0000000000003770       0x48 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .eh_frame      0x00000000000037b8       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .eh_frame      0x00000000000037e8       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-munmap.os)
+ .eh_frame      0x0000000000003818       0x70 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .eh_frame      0x0000000000003888       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-_exit.os)
+ .eh_frame      0x00000000000038b8       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-getpid.os)
+ .eh_frame      0x00000000000038e8       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-uname.os)
+ .eh_frame      0x0000000000003918       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .eh_frame      0x0000000000003948       0x48 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .eh_frame      0x0000000000003990       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .eh_frame      0x00000000000039c0       0xc8 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+                                         0xd0 (size before relaxing)
+ .eh_frame      0x0000000000003a88       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memchr.os)
+ .eh_frame      0x0000000000003ab8       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .eh_frame      0x0000000000003ae8       0x40 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memmove.os)
+ .eh_frame      0x0000000000003b28       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memset.os)
+ .eh_frame      0x0000000000003b58       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .eh_frame      0x0000000000003b88       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strchr.os)
+ .eh_frame      0x0000000000003bb8       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .eh_frame      0x0000000000003be8       0x50 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .eh_frame      0x0000000000003c38       0x50 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strdup.os)
+ .eh_frame      0x0000000000003c88       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .eh_frame      0x0000000000003cb8       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strlen.os)
+ .eh_frame      0x0000000000003ce8       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .eh_frame      0x0000000000003d18       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .eh_frame      0x0000000000003d48       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .eh_frame      0x0000000000003d78       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .eh_frame      0x0000000000003da8       0x2c /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-errname.os)
+                                         0x30 (size before relaxing)
+
+.sframe
+ *(.sframe)
+
+.gcc_except_table
+ *(.gcc_except_table)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges)
+
+.eh_frame
+ *(.eh_frame)
+
+.sframe
+ *(.sframe)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table)
+
+.exception_ranges
+ *(.exception_ranges)
+
+.tdata
+ *(.tdata)
+
+.tbss
+ *(.tbss)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got)
+
+.got.plt
+ *(.got.plt)
+
+.data           0x0000000000000000     0x10e8
+ *(.data)
+ .data          0x0000000000000000     0x10e8 /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os
+                0x0000000000000000                _rtld_global
+                0x0000000000000000                _rtld_local
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-errno.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-closedir.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-profil.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-access.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-openat64.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-stat64.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-munmap.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-_exit.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-getpid.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-uname.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-environ.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memchr.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memmove.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memset.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strchr.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strdup.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strlen.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .data          0x00000000000010e8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-errname.os)
+
+.data.rel.ro    0x0000000000000000     0x1708
+ .data.rel.ro   0x0000000000000000     0x1708 /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os
+                0x0000000000000040                __rtld_search_dirs
+                0x0000000000000070                __rtld_env_path_list
+                0x0000000000000080                __stack_prot
+                0x0000000000000088                __rseq_offset
+                0x0000000000000090                __rseq_size
+                0x00000000000012e8                __rtld_realloc
+                0x00000000000012f0                __rtld_malloc
+                0x00000000000012f8                __rtld_free
+                0x0000000000001300                __rtld_calloc
+                0x0000000000001308                ___rtld_mutex_unlock
+                0x0000000000001310                ___rtld_mutex_lock
+                0x0000000000001318                _dl_random
+                0x0000000000001320                __libc_stack_end
+                0x0000000000001320                __GI___libc_stack_end
+                0x0000000000001328                __GI___libc_enable_secure
+                0x0000000000001328                __libc_enable_secure
+                0x0000000000001350                __pointer_chk_guard_local
+                0x0000000000001358                __GI__dl_argv
+                0x0000000000001358                _dl_argv
+                0x0000000000001360                _dl_argc
+                0x0000000000001380                _rtld_global_ro
+                0x0000000000001380                _rtld_local_ro
+
+.data.rel.ro.local
+                0x0000000000000000       0x28
+ .data.rel.ro.local
+                0x0000000000000000       0x28 /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os
+                0x0000000000000000                __x86_cpu_features_p
+
+.data1
+ *(.data1)
+
+.bss            0x0000000000000000      0x1c8
+ *(.bss)
+ .bss           0x0000000000000000      0x190 /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os
+                0x0000000000000018                _r_debug_extended
+                0x0000000000000018                _r_debug
+                0x00000000000000d8                __nptl_initial_report_events
+                0x00000000000000d8                __GI___nptl_initial_report_events
+                0x0000000000000110                _dl_hwcaps_priorities_length
+                0x0000000000000118                _dl_hwcaps_priorities
+                0x0000000000000120                __rtld_tls_init_tp_called
+                0x0000000000000188                __curbrk
+ .bss           0x0000000000000190        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .bss           0x0000000000000190        0x4 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-errno.os)
+                0x0000000000000190                rtld_errno
+ .bss           0x0000000000000194        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-closedir.os)
+ .bss           0x0000000000000194        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .bss           0x0000000000000194        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .bss           0x0000000000000194        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .bss           0x0000000000000194        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .bss           0x0000000000000194        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ *fill*         0x0000000000000194        0x4 
+ .bss           0x0000000000000198       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-profil.os)
+ .bss           0x00000000000001b8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .bss           0x00000000000001b8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-access.os)
+ .bss           0x00000000000001b8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .bss           0x00000000000001b8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .bss           0x00000000000001b8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .bss           0x00000000000001b8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .bss           0x00000000000001b8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-openat64.os)
+ .bss           0x00000000000001b8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-stat64.os)
+ .bss           0x00000000000001b8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .bss           0x00000000000001b8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .bss           0x00000000000001b8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .bss           0x00000000000001b8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .bss           0x00000000000001b8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .bss           0x00000000000001b8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .bss           0x00000000000001b8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .bss           0x00000000000001b8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .bss           0x00000000000001b8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .bss           0x00000000000001b8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-munmap.os)
+ .bss           0x00000000000001b8        0x4 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+                0x00000000000001b8                __pthread_force_elision
+ .bss           0x00000000000001bc        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-_exit.os)
+ .bss           0x00000000000001bc        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-getpid.os)
+ .bss           0x00000000000001bc        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-uname.os)
+ *fill*         0x00000000000001bc        0x4 
+ .bss           0x00000000000001c0        0x8 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-environ.os)
+                0x00000000000001c0                _environ
+                0x00000000000001c0                __environ
+                0x00000000000001c0                environ
+ .bss           0x00000000000001c8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .bss           0x00000000000001c8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .bss           0x00000000000001c8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .bss           0x00000000000001c8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .bss           0x00000000000001c8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memchr.os)
+ .bss           0x00000000000001c8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .bss           0x00000000000001c8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memmove.os)
+ .bss           0x00000000000001c8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memset.os)
+ .bss           0x00000000000001c8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .bss           0x00000000000001c8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strchr.os)
+ .bss           0x00000000000001c8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .bss           0x00000000000001c8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .bss           0x00000000000001c8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strdup.os)
+ .bss           0x00000000000001c8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .bss           0x00000000000001c8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strlen.os)
+ .bss           0x00000000000001c8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .bss           0x00000000000001c8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .bss           0x00000000000001c8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .bss           0x00000000000001c8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .bss           0x00000000000001c8        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-errname.os)
+
+.lbss
+ *(.lbss)
+
+.lrodata
+ *(.lrodata)
+
+.ldata
+ *(.ldata)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000      0xb40
+ *(.comment)
+ .comment       0x0000000000000000      0x6e0 /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os
+ .comment       0x00000000000006e0       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .comment       0x0000000000000700       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-errno.os)
+ .comment       0x0000000000000720       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-closedir.os)
+ .comment       0x0000000000000740       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .comment       0x0000000000000760       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .comment       0x0000000000000780       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .comment       0x00000000000007a0       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .comment       0x00000000000007c0       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .comment       0x00000000000007e0       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-profil.os)
+ .comment       0x0000000000000800       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .comment       0x0000000000000820       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-access.os)
+ .comment       0x0000000000000840       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .comment       0x0000000000000860       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .comment       0x0000000000000880       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .comment       0x00000000000008a0       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .comment       0x00000000000008c0       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-openat64.os)
+ .comment       0x00000000000008e0       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-stat64.os)
+ .comment       0x0000000000000900       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .comment       0x0000000000000920       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .comment       0x0000000000000940       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .comment       0x0000000000000960       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .comment       0x0000000000000980       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .comment       0x00000000000009a0       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .comment       0x00000000000009c0       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .comment       0x00000000000009e0       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .comment       0x0000000000000a00       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .comment       0x0000000000000a20       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-_exit.os)
+ .comment       0x0000000000000a40       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-environ.os)
+ .comment       0x0000000000000a60       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .comment       0x0000000000000a80       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .comment       0x0000000000000aa0       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .comment       0x0000000000000ac0       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strdup.os)
+ .comment       0x0000000000000ae0       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .comment       0x0000000000000b00       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .comment       0x0000000000000b20       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-errname.os)
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-errno.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-closedir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-profil.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-access.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-openat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-stat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-munmap.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-_exit.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-getpid.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-uname.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-environ.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memmove.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memset.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strdup.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strlen.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-errname.os)
+
+.gnu.build.attributes
+ *(.gnu.build.attributes)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000     0x14a0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000      0xb00 /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os
+ .debug_aranges
+                0x0000000000000b00       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_aranges
+                0x0000000000000b30       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_aranges
+                0x0000000000000b50       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_aranges
+                0x0000000000000b80       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_aranges
+                0x0000000000000bb0       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_aranges
+                0x0000000000000be0       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_aranges
+                0x0000000000000c10       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_aranges
+                0x0000000000000c40       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_aranges
+                0x0000000000000c70       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_aranges
+                0x0000000000000ca0       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_aranges
+                0x0000000000000cd0       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_aranges
+                0x0000000000000d00       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_aranges
+                0x0000000000000d30       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_aranges
+                0x0000000000000d60       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_aranges
+                0x0000000000000d90       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_aranges
+                0x0000000000000dc0       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_aranges
+                0x0000000000000df0       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_aranges
+                0x0000000000000e20       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_aranges
+                0x0000000000000e50       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_aranges
+                0x0000000000000e80       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_aranges
+                0x0000000000000eb0       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_aranges
+                0x0000000000000ee0       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_aranges
+                0x0000000000000f10       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_aranges
+                0x0000000000000f40       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_aranges
+                0x0000000000000f70       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_aranges
+                0x0000000000000fa0       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_aranges
+                0x0000000000000fd0       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_aranges
+                0x0000000000001000       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_aranges
+                0x0000000000001030       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_aranges
+                0x0000000000001060       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_aranges
+                0x0000000000001090       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_aranges
+                0x00000000000010c0       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_aranges
+                0x00000000000010e0       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_aranges
+                0x0000000000001110       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_aranges
+                0x0000000000001140       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_aranges
+                0x0000000000001170       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_aranges
+                0x00000000000011a0       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memchr.os)
+ .debug_aranges
+                0x00000000000011d0       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .debug_aranges
+                0x0000000000001200       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memmove.os)
+ .debug_aranges
+                0x0000000000001230       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memset.os)
+ .debug_aranges
+                0x0000000000001260       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .debug_aranges
+                0x0000000000001290       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strchr.os)
+ .debug_aranges
+                0x00000000000012c0       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .debug_aranges
+                0x00000000000012f0       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .debug_aranges
+                0x0000000000001320       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_aranges
+                0x0000000000001350       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .debug_aranges
+                0x0000000000001380       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strlen.os)
+ .debug_aranges
+                0x00000000000013b0       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .debug_aranges
+                0x00000000000013e0       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .debug_aranges
+                0x0000000000001410       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .debug_aranges
+                0x0000000000001440       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_aranges
+                0x0000000000001470       0x30 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-errname.os)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000    0x9f54a
+ *(.debug_info)
+ .debug_info    0x0000000000000000    0x8eb77 /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os
+ .debug_info    0x000000000008eb77      0x811 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_info    0x000000000008f388      0x3e2 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_info    0x000000000008f76a      0x592 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_info    0x000000000008fcfc      0x504 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_info    0x0000000000090200      0x609 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_info    0x0000000000090809      0x749 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_info    0x0000000000090f52      0x4ce /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_info    0x0000000000091420      0xe23 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_info    0x0000000000092243      0xb64 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_info    0x0000000000092da7     0x2129 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_info    0x0000000000094ed0      0x493 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_info    0x0000000000095363      0x2a8 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_info    0x000000000009560b      0x75c /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_info    0x0000000000095d67      0x4ca /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_info    0x0000000000096231      0x29a /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_info    0x00000000000964cb      0x61a /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_info    0x0000000000096ae5      0x298 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_info    0x0000000000096d7d      0x469 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_info    0x00000000000971e6      0x8d6 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_info    0x0000000000097abc      0x590 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_info    0x000000000009804c      0x518 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_info    0x0000000000098564      0x4dc /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_info    0x0000000000098a40      0x4e0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_info    0x0000000000098f20      0x3ba /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_info    0x00000000000992da     0x25e9 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_info    0x000000000009b8c3       0x6a /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_info    0x000000000009b92d       0x6a /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_info    0x000000000009b997      0x941 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_info    0x000000000009c2d8      0x45a /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_info    0x000000000009c732       0x6a /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_info    0x000000000009c79c       0x6a /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_info    0x000000000009c806       0xb2 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_info    0x000000000009c8b8       0x48 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_info    0x000000000009c900       0x39 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_info    0x000000000009c939      0x963 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_info    0x000000000009d29c      0x945 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_info    0x000000000009dbe1       0x4d /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memchr.os)
+ .debug_info    0x000000000009dc2e       0x4d /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .debug_info    0x000000000009dc7b       0x6d /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memmove.os)
+ .debug_info    0x000000000009dce8       0x3b /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memset.os)
+ .debug_info    0x000000000009dd23       0x4d /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .debug_info    0x000000000009dd70       0x4d /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strchr.os)
+ .debug_info    0x000000000009ddbd       0x3b /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .debug_info    0x000000000009ddf8      0x1f3 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .debug_info    0x000000000009dfeb      0x1ec /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_info    0x000000000009e1d7       0xd7 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .debug_info    0x000000000009e2ae       0x3b /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strlen.os)
+ .debug_info    0x000000000009e2e9       0x3b /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .debug_info    0x000000000009e324       0x4d /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .debug_info    0x000000000009e371       0x4d /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .debug_info    0x000000000009e3be      0x568 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_info    0x000000000009e926      0xc24 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-errname.os)
+
+.debug_abbrev   0x0000000000000000    0x14b06
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000    0x10d5b /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os
+ .debug_abbrev  0x0000000000010d5b      0x20d /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_abbrev  0x0000000000010f68       0xef /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_abbrev  0x0000000000011057      0x20f /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_abbrev  0x0000000000011266      0x182 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_abbrev  0x00000000000113e8      0x1e3 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_abbrev  0x00000000000115cb      0x1e6 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_abbrev  0x00000000000117b1      0x15f /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_abbrev  0x0000000000011910      0x218 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_abbrev  0x0000000000011b28      0x2df /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_abbrev  0x0000000000011e07      0x318 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_abbrev  0x000000000001211f      0x14d /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_abbrev  0x000000000001226c       0xfb /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_abbrev  0x0000000000012367      0x1ec /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_abbrev  0x0000000000012553      0x15e /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_abbrev  0x00000000000126b1       0xfa /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_abbrev  0x00000000000127ab      0x1cd /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_abbrev  0x0000000000012978       0xfa /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_abbrev  0x0000000000012a72      0x14a /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_abbrev  0x0000000000012bbc      0x266 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_abbrev  0x0000000000012e22      0x18e /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_abbrev  0x0000000000012fb0      0x172 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_abbrev  0x0000000000013122      0x167 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_abbrev  0x0000000000013289      0x165 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_abbrev  0x00000000000133ee      0x24c /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_abbrev  0x000000000001363a      0x404 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_abbrev  0x0000000000013a3e       0x28 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_abbrev  0x0000000000013a66       0x28 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_abbrev  0x0000000000013a8e      0x276 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_abbrev  0x0000000000013d04      0x142 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_abbrev  0x0000000000013e46       0x28 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_abbrev  0x0000000000013e6e       0x28 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_abbrev  0x0000000000013e96       0x72 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_abbrev  0x0000000000013f08       0x28 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_abbrev  0x0000000000013f30       0x28 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_abbrev  0x0000000000013f58      0x1fb /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_abbrev  0x0000000000014153      0x209 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_abbrev  0x000000000001435c       0x28 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memchr.os)
+ .debug_abbrev  0x0000000000014384       0x28 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .debug_abbrev  0x00000000000143ac       0x28 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memmove.os)
+ .debug_abbrev  0x00000000000143d4       0x28 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memset.os)
+ .debug_abbrev  0x00000000000143fc       0x28 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .debug_abbrev  0x0000000000014424       0x28 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strchr.os)
+ .debug_abbrev  0x000000000001444c       0x28 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .debug_abbrev  0x0000000000014474      0x113 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .debug_abbrev  0x0000000000014587      0x15c /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_abbrev  0x00000000000146e3       0x9c /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .debug_abbrev  0x000000000001477f       0x28 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strlen.os)
+ .debug_abbrev  0x00000000000147a7       0x28 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .debug_abbrev  0x00000000000147cf       0x28 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .debug_abbrev  0x00000000000147f7       0x28 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .debug_abbrev  0x000000000001481f      0x16c /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_abbrev  0x000000000001498b      0x17b /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-errname.os)
+
+.debug_line     0x0000000000000000    0x205bf
+ *(.debug_line)
+ .debug_line    0x0000000000000000    0x1cf62 /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os
+ .debug_line    0x000000000001cf62      0x136 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_line    0x000000000001d098       0x68 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_line    0x000000000001d100       0xf8 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_line    0x000000000001d1f8       0xd6 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_line    0x000000000001d2ce      0x13e /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_line    0x000000000001d40c      0x127 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_line    0x000000000001d533       0xce /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_line    0x000000000001d601      0x10a /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_line    0x000000000001d70b      0x20c /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_line    0x000000000001d917      0x122 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_line    0x000000000001da39       0xb2 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_line    0x000000000001daeb       0x98 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_line    0x000000000001db83       0xe9 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_line    0x000000000001dc6c       0xbf /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_line    0x000000000001dd2b       0x7e /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_line    0x000000000001dda9      0x151 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_line    0x000000000001defa       0x7e /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_line    0x000000000001df78       0xb0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_line    0x000000000001e028      0x16c /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_line    0x000000000001e194       0xee /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_line    0x000000000001e282       0xcf /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_line    0x000000000001e351       0xc6 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_line    0x000000000001e417       0xc6 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_line    0x000000000001e4dd      0x189 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_line    0x000000000001e666      0x1ac /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_line    0x000000000001e812       0x50 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_line    0x000000000001e862       0x50 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_line    0x000000000001e8b2      0x1bd /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_line    0x000000000001ea6f       0xb4 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_line    0x000000000001eb23       0x4f /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_line    0x000000000001eb72       0x50 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_line    0x000000000001ebc2       0x3f /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_line    0x000000000001ec01       0x60 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_line    0x000000000001ec61       0x5d /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_line    0x000000000001ecbe       0xeb /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_line    0x000000000001eda9      0x1d2 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_line    0x000000000001ef7b      0x118 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memchr.os)
+ .debug_line    0x000000000001f093      0x137 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .debug_line    0x000000000001f1ca       0xda /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memmove.os)
+ .debug_line    0x000000000001f2a4       0x96 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memset.os)
+ .debug_line    0x000000000001f33a      0x1c8 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .debug_line    0x000000000001f502       0xd0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strchr.os)
+ .debug_line    0x000000000001f5d2      0x48e /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .debug_line    0x000000000001fa60      0x1ce /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .debug_line    0x000000000001fc2e       0xab /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_line    0x000000000001fcd9       0x5a /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .debug_line    0x000000000001fd33       0x97 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strlen.os)
+ .debug_line    0x000000000001fdca      0x524 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .debug_line    0x00000000000202ee       0x9a /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .debug_line    0x0000000000020388       0xcb /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .debug_line    0x0000000000020453       0xcc /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_line    0x000000000002051f       0xa0 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-errname.os)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000    0x5d6e9
+ *(.debug_str)
+ .debug_str     0x0000000000000000    0x51da9 /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os
+ .debug_str     0x0000000000051da9      0x518 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_str     0x00000000000522c1      0x337 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_str     0x00000000000525f8      0x3df /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_str     0x00000000000529d7      0x3a5 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_str     0x0000000000052d7c      0x421 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_str     0x000000000005319d      0x50b /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_str     0x00000000000536a8      0x38a /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_str     0x0000000000053a32      0xa6b /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_str     0x000000000005449d      0x6b1 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_str     0x0000000000054b4e     0x1562 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_str     0x00000000000560b0      0x369 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_str     0x0000000000056419      0x294 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_str     0x00000000000566ad      0x4ac /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_str     0x0000000000056b59      0x387 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_str     0x0000000000056ee0      0x28e /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_str     0x000000000005716e      0x411 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_str     0x000000000005757f      0x28c /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_str     0x000000000005780b      0x376 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_str     0x0000000000057b81      0x463 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_str     0x0000000000057fe4      0x408 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_str     0x00000000000583ec      0x3c7 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_str     0x00000000000587b3      0x3a2 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_str     0x0000000000058b55      0x3a4 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_str     0x0000000000058ef9      0x277 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_str     0x0000000000059170     0x1961 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_str     0x000000000005aad1       0x89 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_str     0x000000000005ab5a       0x81 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_str     0x000000000005abdb      0x41e /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_str     0x000000000005aff9      0x367 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_str     0x000000000005b360       0x82 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_str     0x000000000005b3e2       0x7e /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_str     0x000000000005b460      0x176 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_str     0x000000000005b5d6       0x6e /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_str     0x000000000005b644       0x5e /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_str     0x000000000005b6a2      0x565 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_str     0x000000000005bc07      0x59f /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_str     0x000000000005c1a6       0x7d /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memchr.os)
+ .debug_str     0x000000000005c223       0x79 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .debug_str     0x000000000005c29c       0x90 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memmove.os)
+ .debug_str     0x000000000005c32c       0x82 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memset.os)
+ .debug_str     0x000000000005c3ae       0x87 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .debug_str     0x000000000005c435       0x7a /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strchr.os)
+ .debug_str     0x000000000005c4af       0x74 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .debug_str     0x000000000005c523      0x1a5 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .debug_str     0x000000000005c6c8      0x1bb /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_str     0x000000000005c883      0x166 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .debug_str     0x000000000005c9e9       0x74 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strlen.os)
+ .debug_str     0x000000000005ca5d       0x75 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .debug_str     0x000000000005cad2       0x7f /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .debug_str     0x000000000005cb51       0x83 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .debug_str     0x000000000005cbd4      0x417 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_str     0x000000000005cfeb      0x6fe /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-errname.os)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+                0x0000000000000000     0xec0b
+ *(.debug_line_str)
+ .debug_line_str
+                0x0000000000000000     0xb0fa /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os
+ .debug_line_str
+                0x000000000000b0fa      0x1ad /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_line_str
+                0x000000000000b2a7       0xef /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_line_str
+                0x000000000000b396      0x1d2 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_line_str
+                0x000000000000b568      0x1c6 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_line_str
+                0x000000000000b72e      0x1cc /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_line_str
+                0x000000000000b8fa      0x23d /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_line_str
+                0x000000000000bb37      0x181 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_line_str
+                0x000000000000bcb8      0x1dd /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_line_str
+                0x000000000000be95      0x2c6 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_line_str
+                0x000000000000c15b      0x2ed /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_line_str
+                0x000000000000c448      0x126 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_line_str
+                0x000000000000c56e      0x136 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_line_str
+                0x000000000000c6a4      0x186 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_line_str
+                0x000000000000c82a      0x13b /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_line_str
+                0x000000000000c965      0x123 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_line_str
+                0x000000000000ca88      0x177 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_line_str
+                0x000000000000cbff      0x120 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_line_str
+                0x000000000000cd1f      0x13e /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_line_str
+                0x000000000000ce5d      0x189 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_line_str
+                0x000000000000cfe6      0x17e /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_line_str
+                0x000000000000d164      0x188 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_line_str
+                0x000000000000d2ec      0x17f /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_line_str
+                0x000000000000d46b      0x182 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_line_str
+                0x000000000000d5ed      0x118 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_line_str
+                0x000000000000d705      0x2fe /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_line_str
+                0x000000000000da03       0x4b /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_line_str
+                0x000000000000da4e       0x4b /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_line_str
+                0x000000000000da99      0x136 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_line_str
+                0x000000000000dbcf      0x129 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_line_str
+                0x000000000000dcf8       0x4c /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_line_str
+                0x000000000000dd44       0x4c /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_line_str
+                0x000000000000dd90       0x82 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_line_str
+                0x000000000000de12       0x45 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_line_str
+                0x000000000000de57       0x48 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_line_str
+                0x000000000000de9f      0x1d5 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_line_str
+                0x000000000000e074      0x259 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_line_str
+                0x000000000000e2cd       0x61 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memchr.os)
+ .debug_line_str
+                0x000000000000e32e       0x61 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .debug_line_str
+                0x000000000000e38f       0x63 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memmove.os)
+ .debug_line_str
+                0x000000000000e3f2       0x6f /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-memset.os)
+ .debug_line_str
+                0x000000000000e461       0x6b /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .debug_line_str
+                0x000000000000e4cc       0x61 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strchr.os)
+ .debug_line_str
+                0x000000000000e52d       0x61 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .debug_line_str
+                0x000000000000e58e      0x117 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .debug_line_str
+                0x000000000000e6a5       0xce /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_line_str
+                0x000000000000e773       0x9d /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .debug_line_str
+                0x000000000000e810       0x61 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strlen.os)
+ .debug_line_str
+                0x000000000000e871       0x61 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .debug_line_str
+                0x000000000000e8d2       0x61 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .debug_line_str
+                0x000000000000e933       0x61 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .debug_line_str
+                0x000000000000e994      0x16a /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_line_str
+                0x000000000000eafe      0x10d /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-errname.os)
+
+.debug_loclists
+                0x0000000000000000    0x20b09
+ *(.debug_loclists)
+ .debug_loclists
+                0x0000000000000000    0x1f782 /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os
+ .debug_loclists
+                0x000000000001f782       0xa2 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_loclists
+                0x000000000001f824       0x46 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_loclists
+                0x000000000001f86a       0x25 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_loclists
+                0x000000000001f88f       0x6d /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_loclists
+                0x000000000001f8fc       0x42 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_loclists
+                0x000000000001f93e      0x119 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_loclists
+                0x000000000001fa57      0x16b /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_loclists
+                0x000000000001fbc2      0x158 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_loclists
+                0x000000000001fd1a       0x2c /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_loclists
+                0x000000000001fd46       0x45 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_loclists
+                0x000000000001fd8b       0x92 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_loclists
+                0x000000000001fe1d       0x34 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_loclists
+                0x000000000001fe51       0x3e /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_loclists
+                0x000000000001fe8f       0x85 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_loclists
+                0x000000000001ff14       0x3e /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_loclists
+                0x000000000001ff52       0x24 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_loclists
+                0x000000000001ff76      0x248 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_loclists
+                0x00000000000201be       0xd1 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_loclists
+                0x000000000002028f       0x52 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_loclists
+                0x00000000000202e1       0x34 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_loclists
+                0x0000000000020315       0x34 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_loclists
+                0x0000000000020349      0x115 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_loclists
+                0x000000000002045e      0x1a8 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_loclists
+                0x0000000000020606      0x188 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_loclists
+                0x000000000002078e       0x2b /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_loclists
+                0x00000000000207b9       0x5f /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_loclists
+                0x0000000000020818       0xd5 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_loclists
+                0x00000000000208ed      0x14c /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .debug_loclists
+                0x0000000000020a39       0x6a /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_loclists
+                0x0000000000020aa3       0x1e /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .debug_loclists
+                0x0000000000020ac1       0x34 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_loclists
+                0x0000000000020af5       0x14 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-errname.os)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+                0x0000000000000000     0x3f8a
+ *(.debug_rnglists)
+ .debug_rnglists
+                0x0000000000000000     0x3d6a /home/honore/honoreblog/glibc-2.38/build/elf/dl-allobjs.os
+ .debug_rnglists
+                0x0000000000003d6a       0x3a /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_rnglists
+                0x0000000000003da4       0x18 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_rnglists
+                0x0000000000003dbc       0x13 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_rnglists
+                0x0000000000003dcf       0x13 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_rnglists
+                0x0000000000003de2       0x1a /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_rnglists
+                0x0000000000003dfc       0x13 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_rnglists
+                0x0000000000003e0f       0x3a /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_rnglists
+                0x0000000000003e49       0x13 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_rnglists
+                0x0000000000003e5c       0x1d /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_rnglists
+                0x0000000000003e79       0x13 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_rnglists
+                0x0000000000003e8c       0x13 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_rnglists
+                0x0000000000003e9f       0x1f /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_rnglists
+                0x0000000000003ebe       0x20 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_rnglists
+                0x0000000000003ede       0x2f /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_rnglists
+                0x0000000000003f0d       0x1a /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_rnglists
+                0x0000000000003f27       0x3d /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_rnglists
+                0x0000000000003f64       0x13 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_rnglists
+                0x0000000000003f77       0x13 /home/honore/honoreblog/glibc-2.38/build/elf/rtld-libc.a(rtld-errname.os)
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+
+.gnu.attributes
+ *(.gnu.attributes)
+OUTPUT(/home/honore/honoreblog/glibc-2.38/build/elf/librtld.os elf64-x86-64)

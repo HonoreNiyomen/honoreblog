@@ -1,0 +1,13 @@
+/home/honore/honoreblog/glibc-2.38/build/debug/memset_chk-nonshared.os: \
+ ../sysdeps/x86_64/multiarch/memset_chk-nonshared.S \
+ ../include/stdc-predef.h \
+ /home/honore/honoreblog/glibc-2.38/build/libc-modules.h \
+ ../include/libc-symbols.h \
+ /home/honore/honoreblog/glibc-2.38/build/config.h \
+ ../sysdeps/generic/libc-symver.h ../sysdeps/generic/symbol-hacks.h
+../include/stdc-predef.h:
+/home/honore/honoreblog/glibc-2.38/build/libc-modules.h:
+../include/libc-symbols.h:
+/home/honore/honoreblog/glibc-2.38/build/config.h:
+../sysdeps/generic/libc-symver.h:
+../sysdeps/generic/symbol-hacks.h:
