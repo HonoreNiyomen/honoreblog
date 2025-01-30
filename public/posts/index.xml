@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Honore Niyomukiza LOB</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ENV=Work</title>
+      <link>/posts/workenv/</link>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/workenv/</guid>
+      <description>&lt;p&gt;Just got introduced to all the systems under my unit. Massive stuff, a lot of reading and coding is about to be done in this near future.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The Smart Phone Race</title>
       <link>/posts/phones/</link>
@@ -89,14 +96,6 @@ This is the MEGA script, with all my customization&lt;/p&gt;</description>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
       <guid>/posts/my-site/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve had this idea of having my own website to document all i do for quite some time now, and this will mark the first step toward that journey. From here on all my significant steps in my it life will all be marked here with as much efficiency and detail as i can. And bit inspiration from NetworkChuck, wouldn&amp;rsquo;t have started this journey now if it wasn&amp;rsquo;t for him starting his.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>probase test</title>
-      <link>/posts/probase-test/</link>
-      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/probase-test/</guid>
-      <description>&lt;p&gt;probase test
-new&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

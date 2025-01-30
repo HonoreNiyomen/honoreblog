@@ -61,10 +61,10 @@ paginate = 5
     title = "Honore Niyomukiza LOB"
 
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
-      owner = ""
-      keywords = ""
-      copyright = ""
+      subtitle = "A Computer geek, everything form linux to software dev to techtube"
+      owner = "Honore Niyomukiza"
+      keywords = ["horez", "horesium", "LOB"] 
+      copyright = "LOB Tech"
       menuMore = "Show more"
       readMore = "Read more"
       readOtherPosts = "Read other posts"

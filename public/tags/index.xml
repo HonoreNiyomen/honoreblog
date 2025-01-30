@@ -6,13 +6,20 @@
     <description>Recent content in Tags on Honore Niyomukiza LOB</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
       <link>/tags/blog/</link>
-      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
       <guid>/tags/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Work</title>
+      <link>/tags/work/</link>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/work/</guid>
       <description></description>
     </item>
     <item>
@@ -20,13 +27,6 @@
       <link>/tags/thoughts/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
       <guid>/tags/thoughts/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Work</title>
-      <link>/tags/work/</link>
-      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/work/</guid>
       <description></description>
     </item>
     <item>
