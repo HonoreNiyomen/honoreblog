@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
-theme = "papermod"
+theme = "PaperMod"
 
 [pagination]
 paginate = 5
@@ -88,4 +88,3 @@ paginate = 5
           identifier = "showcase"
           name = "Showcase"
           url = "/showcase"
-theme = "ananke"
