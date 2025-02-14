@@ -6,8 +6,24 @@
     <description>Recent content on Honore Niyomukiza LOB</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>holiday thoughts</title>
+      <link>/posts/valentine/</link>
+      <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/valentine/</guid>
+      <description>&lt;p&gt;2025 LOVE DAY
+This is the first holiday at probase, with all the festive viubes going around&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>holiday thoughts</title>
+      <link>/valentine/</link>
+      <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/valentine/</guid>
+      <description>&lt;p&gt;2025 LOVE DAY
+This is the first holiday at probase, with all the festive viubes going around&lt;/p&gt;</description>
+    </item>
     <item>
       <title>ENV=Work</title>
       <link>/posts/workenv/</link>
@@ -177,14 +193,18 @@ This is the MEGA script, with all my customization&lt;/p&gt;</description>
       <link>/my-site/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
       <guid>/my-site/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve had this idea of having my own website to document all i do for quite some time now, and this will mark the first step toward that journey. From here on all my significant steps in my it life will all be marked here with as much efficiency and detail as i can. And bit inspiration from NetworkChuck, wouldn&amp;rsquo;t have started this journey now if it wasn&amp;rsquo;t for him starting his.&lt;/p&gt;</description>
+      <description>&lt;pre&gt;&lt;code&gt;	I&#39;ve had this idea of having my own website to document all i do for quite some time now, and this will mark the first step toward that journey. From here on all my significant steps in my it life will all be marked here with as much efficiency and detail as i can. And bit inspiration from NetworkChuck, wouldn&#39;t have started this journey now if it wasn&#39;t for him starting his.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Thank you for starting this journey with me.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Horez&#39;s First Blog Note</title>
       <link>/posts/my-site/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
       <guid>/posts/my-site/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve had this idea of having my own website to document all i do for quite some time now, and this will mark the first step toward that journey. From here on all my significant steps in my it life will all be marked here with as much efficiency and detail as i can. And bit inspiration from NetworkChuck, wouldn&amp;rsquo;t have started this journey now if it wasn&amp;rsquo;t for him starting his.&lt;/p&gt;</description>
+      <description>&lt;pre&gt;&lt;code&gt;	I&#39;ve had this idea of having my own website to document all i do for quite some time now, and this will mark the first step toward that journey. From here on all my significant steps in my it life will all be marked here with as much efficiency and detail as i can. And bit inspiration from NetworkChuck, wouldn&#39;t have started this journey now if it wasn&#39;t for him starting his.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Thank you for starting this journey with me.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
