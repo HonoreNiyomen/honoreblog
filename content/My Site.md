@@ -7,8 +7,8 @@ tags:
   - IUseArchBTW
   - NetworkChuck
 ---
-
-I've had this idea of having my own website to document all i do for quite some time now, and this will mark the first step toward that journey. From here on all my significant steps in my it life will all be marked here with as much efficiency and detail as i can. And bit inspiration from NetworkChuck, wouldn't have started this journey now if it wasn't for him starting his.
+	
+		I've had this idea of having my own website to document all i do for quite some time now, and this will mark the first step toward that journey. From here on all my significant steps in my it life will all be marked here with as much efficiency and detail as i can. And bit inspiration from NetworkChuck, wouldn't have started this journey now if it wasn't for him starting his.
 
 Thank you for starting this journey with me.
 
