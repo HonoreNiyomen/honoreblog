@@ -3,9 +3,9 @@ import re
 import shutil
 
 # Paths
-obsidian_vault_path = "/home/honore/HorezBlog"  # Replace with your Obsidian vault path
-hugo_posts_path = "/home/honore/honoreblog/content/"  # Replace with your Hugo posts path
-hugo_static_images_path = "/home/honore/honoreblog/static/images"  # Replace with your Hugo static images path
+obsidian_vault_path = "/home/horez/HorezBlog"  # Replace with your Obsidian vault path
+hugo_posts_path = "/home/horez/honoreblog/content/"  # Replace with your Hugo posts path
+hugo_static_images_path = "/home/horez/honoreblog/static/images"  # Replace with your Hugo static images path
 
 # Ensure Hugo images directory exists
 os.makedirs(hugo_static_images_path, exist_ok=True)
