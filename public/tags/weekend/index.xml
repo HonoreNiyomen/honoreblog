@@ -1,31 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>weekend on Honore Niyomukiza LOB</title>
+    <title>Weekend on Honore Niyomukiza LOB</title>
     <link>/tags/weekend/</link>
-    <description>Recent content in weekend on Honore Niyomukiza LOB</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 10 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/weekend/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Weekend on Honore Niyomukiza LOB</description>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 10 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/weekend/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Catching Up – Long Rollercoster Of Grind</title>
       <link>/may-updates-whats-been-up/</link>
       <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
-      
       <guid>/may-updates-whats-been-up/</guid>
-      <description>It’s been a while since I last shared anything here, and honestly, a lot has happened since last time I posted in February.
-After that point, life picked up pace quickly. I’ve been juggling multiple things—school, projects, and personal growth. This semester has been intense, with Computer Science classes pushing me harder than ever, especially Data Structures &amp;amp; Algorithms and Enterprise Networking. I&amp;rsquo;ve been trying to stay afloat, learning and unlearning so much in the process.</description>
+      <description>&lt;p&gt;It’s been a while since I last shared anything here, and honestly, a lot has happened since last time I posted in February.&lt;/p&gt;
+&lt;p&gt;After that point, life picked up pace quickly. I’ve been juggling multiple things—school, projects, and personal growth. This semester has been intense, with Computer Science classes pushing me harder than ever, especially Data Structures &amp;amp; Algorithms and Enterprise Networking. I&amp;rsquo;ve been trying to stay afloat, learning and unlearning so much in the process.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Catching Up – Long Rollercoster Of Grind</title>
       <link>/posts/may-updates-whats-been-up/</link>
       <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
-      
       <guid>/posts/may-updates-whats-been-up/</guid>
-      <description>It’s been a while since I last shared anything here, and honestly, a lot has happened since last time I posted in February.
-After that point, life picked up pace quickly. I’ve been juggling multiple things—school, projects, and personal growth. This semester has been intense, with Computer Science classes pushing me harder than ever, especially Data Structures &amp;amp; Algorithms and Enterprise Networking. I&amp;rsquo;ve been trying to stay afloat, learning and unlearning so much in the process.</description>
+      <description>&lt;p&gt;It’s been a while since I last shared anything here, and honestly, a lot has happened since last time I posted in February.&lt;/p&gt;
+&lt;p&gt;After that point, life picked up pace quickly. I’ve been juggling multiple things—school, projects, and personal growth. This semester has been intense, with Computer Science classes pushing me harder than ever, especially Data Structures &amp;amp; Algorithms and Enterprise Networking. I&amp;rsquo;ve been trying to stay afloat, learning and unlearning so much in the process.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

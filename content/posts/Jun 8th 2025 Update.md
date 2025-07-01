@@ -1,6 +1,6 @@
 ---
 title: Weekend After Exams Week
-date: 2025-06-8
+date: 2025-06-08
 tags:
   - blog
   - night thoughts

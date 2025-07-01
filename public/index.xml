@@ -1,350 +1,321 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Honore Niyomukiza LOB</title>
     <link>/</link>
     <description>Recent content on Honore Niyomukiza LOB</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.146.0</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second Half Time</title>
       <link>/officially-in-the-second-half/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      
       <guid>/officially-in-the-second-half/</guid>
-      <description>A quick update of whats going on, wait what really is going on huh. weeks, maybe even months pass without posting anything. Honestly I also don&amp;rsquo;t know what to say, much/not much has been going on in life, just the same old work-home routine. Well I started reading a book, Atomic Habits, maybe that&amp;rsquo;s something. My thoughts on the book so far, great opening at each level, i honestly thought the book will be much more heavy on the mind in terms of the words and school of thought but now i can see why its like a fun favourite.</description>
+      <description>&lt;p&gt;A quick update of whats going on, wait what really is going on huh. weeks, maybe even months pass without posting anything.
+Honestly I also don&amp;rsquo;t know what to say, much/not much has been going on in life, just the same old work-home routine. Well I started reading a book, Atomic Habits, maybe that&amp;rsquo;s something.
+My thoughts on the book so far, great opening at each level, i honestly thought the book will be much more heavy on the mind in terms of the words and school of thought but now i can see why its like a fun favourite. I believe anyone can easily relate to it even when they don&amp;rsquo;t have a history of reading big books. I will give a better review once am done reading the book.
+![[atomic_habits_art.png]]
+And with work, I&amp;rsquo;ve been gaining quality experience, the other 2 development projects i started with have since then gone on halt but I&amp;rsquo;ve been working on the development of a E-registry system. I don&amp;rsquo;t know if i mentioned, i coded(still coding) a mid-level SaaS in elixir, both front and back-end. LOB exam Scheduler, haven&amp;rsquo;t updated anything on the code base in day but I will be returning and today i generated a new java project, just to sharpen my java, I&amp;rsquo;ve played enough with elixir its about time I see some Java coffee, more on the project in my next post.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Second Half Time</title>
       <link>/posts/officially-in-the-second-half/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      
       <guid>/posts/officially-in-the-second-half/</guid>
-      <description>A quick update of whats going on, wait what really is going on huh. weeks, maybe even months pass without posting anything. Honestly I also don&amp;rsquo;t know what to say, much/not much has been going on in life, just the same old work-home routine. Well I started reading a book, Atomic Habits, maybe that&amp;rsquo;s something. My thoughts on the book so far, great opening at each level, i honestly thought the book will be much more heavy on the mind in terms of the words and school of thought but now i can see why its like a fun favourite.</description>
+      <description>&lt;p&gt;A quick update of whats going on, wait what really is going on huh. weeks, maybe even months pass without posting anything.
+Honestly I also don&amp;rsquo;t know what to say, much/not much has been going on in life, just the same old work-home routine. Well I started reading a book, Atomic Habits, maybe that&amp;rsquo;s something.
+My thoughts on the book so far, great opening at each level, i honestly thought the book will be much more heavy on the mind in terms of the words and school of thought but now i can see why its like a fun favourite. I believe anyone can easily relate to it even when they don&amp;rsquo;t have a history of reading big books. I will give a better review once am done reading the book.
+!&lt;img alt=&#34;Description&#34; loading=&#34;lazy&#34; src=&#34;/images/atomic_habits_art.png&#34;&gt;
+And with work, I&amp;rsquo;ve been gaining quality experience, the other 2 development projects i started with have since then gone on halt but I&amp;rsquo;ve been working on the development of a E-registry system. I don&amp;rsquo;t know if i mentioned, i coded(still coding) a mid-level SaaS in elixir, both front and back-end. LOB exam Scheduler, haven&amp;rsquo;t updated anything on the code base in day but I will be returning and today i generated a new java project, just to sharpen my java, I&amp;rsquo;ve played enough with elixir its about time I see some Java coffee, more on the project in my next post.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Weekend After Exams Week</title>
+      <link>/jun-8th-2025-update/</link>
+      <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/jun-8th-2025-update/</guid>
+      <description>&lt;p&gt;Just finished writing my end of semester exams for year 3 semester 2, this marked the end of my 3rd year and marking the beginning of my final year next time we open.
+I am looking forward to the final school year, and all the opportunities and learning it will bring with it. My my internship at Probase still going, I official ran and entire semester of school on DL(Distance learning) and I&amp;rsquo;d say it wast that rough, tho yes the final exams where kinda tough but that&amp;rsquo;s how all final exams are. Overall great experience hoping to see great results when the marking is done&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Weekend After Exams Week</title>
+      <link>/posts/jun-8th-2025-update/</link>
+      <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/jun-8th-2025-update/</guid>
+      <description>&lt;p&gt;Just finished writing my end of semester exams for year 3 semester 2, this marked the end of my 3rd year and marking the beginning of my final year next time we open.
+I am looking forward to the final school year, and all the opportunities and learning it will bring with it. My my internship at Probase still going, I official ran and entire semester of school on DL(Distance learning) and I&amp;rsquo;d say it wast that rough, tho yes the final exams where kinda tough but that&amp;rsquo;s how all final exams are. Overall great experience hoping to see great results when the marking is done&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Catching Up – Long Rollercoster Of Grind</title>
       <link>/may-updates-whats-been-up/</link>
       <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
-      
       <guid>/may-updates-whats-been-up/</guid>
-      <description>It’s been a while since I last shared anything here, and honestly, a lot has happened since last time I posted in February.
-After that point, life picked up pace quickly. I’ve been juggling multiple things—school, projects, and personal growth. This semester has been intense, with Computer Science classes pushing me harder than ever, especially Data Structures &amp;amp; Algorithms and Enterprise Networking. I&amp;rsquo;ve been trying to stay afloat, learning and unlearning so much in the process.</description>
+      <description>&lt;p&gt;It’s been a while since I last shared anything here, and honestly, a lot has happened since last time I posted in February.&lt;/p&gt;
+&lt;p&gt;After that point, life picked up pace quickly. I’ve been juggling multiple things—school, projects, and personal growth. This semester has been intense, with Computer Science classes pushing me harder than ever, especially Data Structures &amp;amp; Algorithms and Enterprise Networking. I&amp;rsquo;ve been trying to stay afloat, learning and unlearning so much in the process.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Catching Up – Long Rollercoster Of Grind</title>
       <link>/posts/may-updates-whats-been-up/</link>
       <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
-      
       <guid>/posts/may-updates-whats-been-up/</guid>
-      <description>It’s been a while since I last shared anything here, and honestly, a lot has happened since last time I posted in February.
-After that point, life picked up pace quickly. I’ve been juggling multiple things—school, projects, and personal growth. This semester has been intense, with Computer Science classes pushing me harder than ever, especially Data Structures &amp;amp; Algorithms and Enterprise Networking. I&amp;rsquo;ve been trying to stay afloat, learning and unlearning so much in the process.</description>
+      <description>&lt;p&gt;It’s been a while since I last shared anything here, and honestly, a lot has happened since last time I posted in February.&lt;/p&gt;
+&lt;p&gt;After that point, life picked up pace quickly. I’ve been juggling multiple things—school, projects, and personal growth. This semester has been intense, with Computer Science classes pushing me harder than ever, especially Data Structures &amp;amp; Algorithms and Enterprise Networking. I&amp;rsquo;ve been trying to stay afloat, learning and unlearning so much in the process.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>holiday thoughts</title>
       <link>/posts/valentine/</link>
       <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
-      
       <guid>/posts/valentine/</guid>
-      <description>2025 LOVE DAY This is the first holiday at probase, with all the festive viubes going around</description>
+      <description>&lt;p&gt;2025 LOVE DAY
+This is the first holiday at probase, with all the festive viubes going around&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>holiday thoughts</title>
       <link>/valentine/</link>
       <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
-      
       <guid>/valentine/</guid>
-      <description>2025 LOVE DAY This is the first holiday at probase, with all the festive viubes going around</description>
+      <description>&lt;p&gt;2025 LOVE DAY
+This is the first holiday at probase, with all the festive viubes going around&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>ENV=Work</title>
       <link>/posts/workenv/</link>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-      
       <guid>/posts/workenv/</guid>
-      <description>Just got introduced to all the systems under my unit. Massive stuff, a lot of reading and coding is about to be done in this near future.</description>
+      <description>&lt;p&gt;Just got introduced to all the systems under my unit. Massive stuff, a lot of reading and coding is about to be done in this near future.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>ENV=Work</title>
       <link>/workenv/</link>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-      
       <guid>/workenv/</guid>
-      <description>Just got introduced to all the systems under my unit. Massive stuff, a lot of reading and coding is about to be done in this near future.</description>
+      <description>&lt;p&gt;Just got introduced to all the systems under my unit. Massive stuff, a lot of reading and coding is about to be done in this near future.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The Smart Phone Race</title>
       <link>/phones/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      
       <guid>/phones/</guid>
-      <description>Why do phones really have to be these stressing. from the time i moved on from the S20, i haven&amp;rsquo;t touched a single good phone. been trying to get one only ending up in dead ends. hopefully this weekend, one will be found and this long race will come to an end.</description>
+      <description>&lt;p&gt;Why do phones really have to be these stressing. from the time i moved on from the S20, i haven&amp;rsquo;t touched a single good phone. been trying to get one only ending up in dead ends. hopefully this weekend, one will be found and this long race will come to an end.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The Smart Phone Race</title>
       <link>/posts/phones/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      
       <guid>/posts/phones/</guid>
-      <description>Why do phones really have to be these stressing. from the time i moved on from the S20, i haven&amp;rsquo;t touched a single good phone. been trying to get one only ending up in dead ends. hopefully this weekend, one will be found and this long race will come to an end.</description>
+      <description>&lt;p&gt;Why do phones really have to be these stressing. from the time i moved on from the S20, i haven&amp;rsquo;t touched a single good phone. been trying to get one only ending up in dead ends. hopefully this weekend, one will be found and this long race will come to an end.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Sunday before Monday</title>
       <link>/3rd-week-here-i-come/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      
       <guid>/3rd-week-here-i-come/</guid>
-      <description>Cant believe its about to be three weeks already. already feel like ive been doing this for a while. ive never had to consume a language, framework and a whole field(backend) is such little time. at these pace, i wonder where i came reach in like 3months. well we&amp;rsquo;ll see</description>
+      <description>&lt;p&gt;Cant believe its about to be three weeks already. already feel like ive been doing this for a while. ive never had to consume a language, framework and a whole field(backend) is such little time. at these pace, i wonder where i came reach in like 3months. well we&amp;rsquo;ll see&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Sunday before Monday</title>
       <link>/posts/3rd-week-here-i-come/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      
       <guid>/posts/3rd-week-here-i-come/</guid>
-      <description>Cant believe its about to be three weeks already. already feel like ive been doing this for a while. ive never had to consume a language, framework and a whole field(backend) is such little time. at these pace, i wonder where i came reach in like 3months. well we&amp;rsquo;ll see</description>
+      <description>&lt;p&gt;Cant believe its about to be three weeks already. already feel like ive been doing this for a while. ive never had to consume a language, framework and a whole field(backend) is such little time. at these pace, i wonder where i came reach in like 3months. well we&amp;rsquo;ll see&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Update After A Long Time</title>
       <link>/long-time-update/</link>
       <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
-      
       <guid>/long-time-update/</guid>
-      <description>Sorry for not posting of late, but a lot has happened. for starters i got the position at ProBase.</description>
+      <description>&lt;p&gt;Sorry for not posting of late, but a lot has happened. for starters i got the position at ProBase.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Update After A Long Time</title>
       <link>/posts/long-time-update/</link>
       <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
-      
       <guid>/posts/long-time-update/</guid>
-      <description>Sorry for not posting of late, but a lot has happened. for starters i got the position at ProBase.</description>
+      <description>&lt;p&gt;Sorry for not posting of late, but a lot has happened. for starters i got the position at ProBase.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>night vibe</title>
       <link>/moment/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      
       <guid>/moment/</guid>
-      <description>woopsie made a oopsie ![[screenshot_2025-01-06_20-24-23_866970453.png]] looking forward to seeing this and getting but to listening and watching this art again.</description>
+      <description>&lt;p&gt;woopsie made a oopsie
+![[screenshot_2025-01-06_20-24-23_866970453.png]]
+looking forward to seeing this and getting but to listening and watching this art again.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>night vibe</title>
       <link>/posts/moment/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      
       <guid>/posts/moment/</guid>
-      <description>woopsie made a oopsie ! looking forward to seeing this and getting but to listening and watching this art again.</description>
+      <description>&lt;p&gt;woopsie made a oopsie
+!&lt;img alt=&#34;Description&#34; loading=&#34;lazy&#34; src=&#34;/images/screenshot_2025-01-06_20-24-23_866970453.png&#34;&gt;
+looking forward to seeing this and getting but to listening and watching this art again.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>random thoughts</title>
       <link>/posts/thoughts/</link>
       <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
-      
       <guid>/posts/thoughts/</guid>
-      <description>Artificial Intelligence related, why is it that AI is created by programmers, specifically software developers but at the moment seems to be best at replacing software developer jobs. That is something to think about.</description>
+      <description>&lt;p&gt;Artificial Intelligence related,
+why is it that AI is created by programmers, specifically software developers but at the moment seems to be best at replacing software developer jobs. That is something to think about.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>random thoughts</title>
       <link>/thoughts/</link>
       <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
-      
       <guid>/thoughts/</guid>
-      <description>Artificial Intelligence related, why is it that AI is created by programmers, specifically software developers but at the moment seems to be best at replacing software developer jobs. That is something to think about.</description>
+      <description>&lt;p&gt;Artificial Intelligence related,
+why is it that AI is created by programmers, specifically software developers but at the moment seems to be best at replacing software developer jobs. That is something to think about.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Portifolio Site Update</title>
       <link>/portfolio-site/</link>
       <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
-      
       <guid>/portfolio-site/</guid>
-      <description>Portfolio site Loading&amp;hellip; ![[screenshot_2025-01-03_10-12-47_070108960.png]]</description>
+      <description>&lt;p&gt;Portfolio site Loading&amp;hellip;
+![[screenshot_2025-01-03_10-12-47_070108960.png]]&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Portifolio Site Update</title>
       <link>/posts/portfolio-site/</link>
       <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
-      
       <guid>/posts/portfolio-site/</guid>
-      <description>Portfolio site Loading&amp;hellip; !</description>
+      <description>&lt;p&gt;Portfolio site Loading&amp;hellip;
+!&lt;img alt=&#34;Description&#34; loading=&#34;lazy&#34; src=&#34;/images/screenshot_2025-01-03_10-12-47_070108960.png&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>2024 New Year&#39;s Eve</title>
       <link>/new-years-eve/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      
       <guid>/new-years-eve/</guid>
-      <description>Last Day of ever being in 2024!! Lot have happened during this year, from personal event, family events all the way up to global events, yet we are here to close up the year and say hello to 2025! Happy New year to all, in advance. hope to see you over the other side. ![[newyearseve.jpeg]] Cheers to yet another year completed😌.</description>
+      <description>&lt;p&gt;Last Day of ever being in 2024!!
+Lot have happened during this year, from personal event, family events all the way up to global events, yet we are here to close up the year and say hello to 2025!
+Happy New year to all, in advance. hope to see you over the other side.
+![[newyearseve.jpeg]]
+Cheers to yet another year completed😌.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>2024 New Year&#39;s Eve</title>
       <link>/posts/new-years-eve/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      
       <guid>/posts/new-years-eve/</guid>
-      <description>Last Day of ever being in 2024!! Lot have happened during this year, from personal event, family events all the way up to global events, yet we are here to close up the year and say hello to 2025! Happy New year to all, in advance. hope to see you over the other side. ! Cheers to yet another year completed😌.</description>
+      <description>&lt;p&gt;Last Day of ever being in 2024!!
+Lot have happened during this year, from personal event, family events all the way up to global events, yet we are here to close up the year and say hello to 2025!
+Happy New year to all, in advance. hope to see you over the other side.
+!&lt;img alt=&#34;Description&#34; loading=&#34;lazy&#34; src=&#34;/images/newyearseve.jpeg&#34;&gt;
+Cheers to yet another year completed😌.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>2024 Christmas Eve</title>
       <link>/happy-holidays/</link>
       <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
-      
       <guid>/happy-holidays/</guid>
-      <description>Hello, Christmas eve has arrived and the new year is just around the corner. 2025, here we come.
-This is also my first day of brain storming web-application ideas. more on the project in the later updates.
-Happy Holidays to Family and All.</description>
+      <description>&lt;p&gt;Hello, Christmas eve has arrived and the new year is just around the corner. 2025, here we come.&lt;/p&gt;
+&lt;p&gt;This is also my first day of brain storming web-application ideas. more on the project in the later updates.&lt;/p&gt;
+&lt;p&gt;Happy Holidays to Family and All.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>2024 Christmas Eve</title>
       <link>/posts/happy-holidays/</link>
       <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
-      
       <guid>/posts/happy-holidays/</guid>
-      <description>Hello, Christmas eve has arrived and the new year is just around the corner. 2025, here we come.
-This is also my first day of brain storming web-application ideas. more on the project in the later updates.
-Happy Holidays to Family and All.</description>
+      <description>&lt;p&gt;Hello, Christmas eve has arrived and the new year is just around the corner. 2025, here we come.&lt;/p&gt;
+&lt;p&gt;This is also my first day of brain storming web-application ideas. more on the project in the later updates.&lt;/p&gt;
+&lt;p&gt;Happy Holidays to Family and All.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Morning Thoughts</title>
       <link>/18-dec-2024/</link>
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-      
       <guid>/18-dec-2024/</guid>
-      <description>First task of the day completed. I just finished customizing a mega script that with me making my site deployment automated even more, now all i have to do is write a note and the topic i want to cover on that day and the run this mega script. Everything from syncing my update, images and my github repo with my site when be updated. This is the MEGA script, with all my customization</description>
+      <description>&lt;p&gt;First task of the day completed. I just finished customizing a mega script that with me making my site deployment automated even more, now all i have to do is write a note and the topic i want to cover on that day and the run this mega script.
+Everything from syncing my update, images and my github repo with my site when be updated.
+This is the MEGA script, with all my customization&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Morning Thoughts</title>
       <link>/posts/18-dec-2024/</link>
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-      
       <guid>/posts/18-dec-2024/</guid>
-      <description>First task of the day completed. I just finished customizing a mega script that with me making my site deployment automated even more, now all i have to do is write a note and the topic i want to cover on that day and the run this mega script. Everything from syncing my update, images and my github repo with my site when be updated. This is the MEGA script, with all my customization</description>
+      <description>&lt;p&gt;First task of the day completed. I just finished customizing a mega script that with me making my site deployment automated even more, now all i have to do is write a note and the topic i want to cover on that day and the run this mega script.
+Everything from syncing my update, images and my github repo with my site when be updated.
+This is the MEGA script, with all my customization&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Horez&#39;s First Blog Note</title>
       <link>/my-site/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      
       <guid>/my-site/</guid>
-      <description>I&#39;ve had this idea of having my own website to document all i do for quite some time now, and this will mark the first step toward that journey. From here on all my significant steps in my it life will all be marked here with as much efficiency and detail as i can. And bit inspiration from NetworkChuck, wouldn&#39;t have started this journey now if it wasn&#39;t for him starting his.</description>
+      <description>&lt;pre&gt;&lt;code&gt;	I&#39;ve had this idea of having my own website to document all i do for quite some time now, and this will mark the first step toward that journey. From here on all my significant steps in my it life will all be marked here with as much efficiency and detail as i can. And bit inspiration from NetworkChuck, wouldn&#39;t have started this journey now if it wasn&#39;t for him starting his.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Thank you for starting this journey with me.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Horez&#39;s First Blog Note</title>
       <link>/posts/my-site/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      
       <guid>/posts/my-site/</guid>
-      <description>I&#39;ve had this idea of having my own website to document all i do for quite some time now, and this will mark the first step toward that journey. From here on all my significant steps in my it life will all be marked here with as much efficiency and detail as i can. And bit inspiration from NetworkChuck, wouldn&#39;t have started this journey now if it wasn&#39;t for him starting his.</description>
+      <description>&lt;pre&gt;&lt;code&gt;	I&#39;ve had this idea of having my own website to document all i do for quite some time now, and this will mark the first step toward that journey. From here on all my significant steps in my it life will all be marked here with as much efficiency and detail as i can. And bit inspiration from NetworkChuck, wouldn&#39;t have started this journey now if it wasn&#39;t for him starting his.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Thank you for starting this journey with me.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
       <link>/chosen-field-of-study/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/chosen-field-of-study/</guid>
-      <description>Since i was little,i have always wanted to do something that involved technology and machinery but doesn&amp;rsquo;t require you to get dirty maybe from time to time but i still didn&amp;rsquo;t now what type of field i would belong to.As time went by and i grew up i found out that engineering was that field and so i decided to do my best in what so ever thing i have to do in order to became one but that&amp;rsquo;s when i was told by someone that they where branches in engineering,branches like aeronautical ,chemical ,civil and computer engineering a few to mention .</description>
+      <description>&lt;p&gt;Since i was little,i have always wanted to do something that involved technology and machinery but doesn&amp;rsquo;t require you to get dirty maybe from time to time but i still didn&amp;rsquo;t now what type of field i would belong to.As time went by and i grew up i found out that engineering was that field and so i decided to do my best in what so ever thing i have  to do in order to became one but that&amp;rsquo;s when i was told by someone that they where branches in engineering,branches like aeronautical ,chemical ,civil and computer engineering a few to mention .So i thought to myself and decided that i should do something that not every one does so that i can be unique.
+As i grew up i noticed that among all the modes of transport people don&amp;rsquo;t usually go for water and air transport as a chose of study in engineering ,so i had a chose either air and water .Setting down with my self i noticed that planes are pretty nice and flying is  fun to so i decided that air is my speciality and that was aeronautical engineering . So i grew an interest  in that and did some small research on planes in general ,so with that in mind i decided that i should be more involved in physics in which i am and really interested and that&amp;rsquo;s when i  found my type of field.When i was done with my secondary education i did an actual research on that and found a lot of benefits and places of work in different branches under the same aeronautical engineering but realised that its better i study that as a masters and for my undergraduate degree i should just do a bachelors in engineering so that i can have an inside view of everything and then specify later on.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
       <link>/erio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/erio/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>/funded-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/funded-project/</guid>
-      <description>The market place is far from where i live ,so if you wan&amp;rsquo;t to go and by some vegetables you have to a list board about three bus in order for you to by buy your vegetables and board another three for you to get back home.with that ,people are forced to by from the supermarkets and with this depression in Zambia , the prices are quite high and the people are straggling so with that said i would make a big vegetable garden that can supply my community with healthy and cheaper vegetables hence saving the money they would have used on transport in order for them to go to the supermarket or the market place.</description>
+      <description>&lt;p&gt;The market place is far from where i live ,so if you wan&amp;rsquo;t to go and by some vegetables you have to a list board about three bus in order for you to by buy your vegetables and board another three for you to get back home.with that ,people are forced to by from the supermarkets and with this depression in Zambia , the prices are quite high and the people are straggling so with that said i would make a big vegetable garden that can supply my community with healthy and cheaper vegetables hence saving the money they would have used on transport in order for them to go to the supermarket or the market place.
+Due to the fact that at times the vegetables at the supermarket can stay for a long period of time with out  been bought, they can still be placed on the stand so that they can be bought and plus they use chemicals that make them unhealthy so that they can look good in the buyers eyes . The same is for the market place ,it&amp;rsquo;s so unhygienic but for the fact that they unlike the supermarket don&amp;rsquo;t use chemicals that make there food unhealthy, people go there .With that said i would make a big garden that would make healthy and affordable vegetables that would conserve the peoples money that they would have used on transport and provide them with healthy and fresh vegetables .In doing so i will be providing my family and community with fresh vegetables and  plus some money for my family.
+The project would make me have a source of income as an individual,would provide my community at large with fresh and healthy vegetables that are cheaper .
+I would do buy a piece of land $500 ,seeds $50,manure $150,an irrigation system $200,lights $100,a tank for storage of water $300 and an electric wire fence $200.I would be selling the vegetables at home where the community is hence cutting of on there transport budget.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
       <link>/jake-gelynall/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/jake-gelynall/</guid>
-      <description>and what i believe sir, is that good things come to those who work their asses off. and remember i would never ask you to do anything that i would do myself.</description>
+      <description>&lt;p&gt;and what i believe sir, is that good things come to those who work their asses off.
+and remember i would never ask you to do anything that i would do myself.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
       <link>/jhyytutyudlfjkkldgtj/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/jhyytutyudlfjkkldgtj/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>/personal-background/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/personal-background/</guid>
-      <description>My names are Moses Uzamutuma and i am the sixthy child in a family of seven children in which i have five elder sisters and a younger brother.i am a refuge in Zambia but born in it.my parents are both Rwandans .Due to been a family in a foreign country rising money was not easy .my parents had to go through a lot in order to provide for us as there children.</description>
+      <description>&lt;p&gt;My names are Moses Uzamutuma and i am the sixthy child in a family of seven  children in which i have five elder sisters and a younger brother.i am a refuge in Zambia but born in it.my parents are both Rwandans .Due to been a family in a foreign country rising money was not easy .my parents had to go through a lot in order to provide for us as there children.
+I did my primary education in Lusaka and my secondary education in Kabwe but by the time i stated my secondary education ,the Zambian currency had depreciated due to the covid 19 globle pandemic and that&amp;rsquo;s when thing became even tough then usual.I started going to school with only the necessary and most important thing ,my parents would strive in order for them to pay school fees but due to time they started ageing and could only do what they can . In doing myself in such a scenerial made me realise that thing are tough and that i should do my best in school so that i can also get on a scholarship in order losen up my parents stress  and that became my goal but that wasn&amp;rsquo;t easy. seeing other kinds come with staff that my parents couldn&amp;rsquo;t afford was not easy to ignore but as i grew older i started to became more forced no what my goal . In my last year of secondary school my parents made sure they gave me whats so ever i asked so that my force should be on my studies but i didn&amp;rsquo;t ask much apart for food.
+As i was approaching my last term of the last year in school i did what i could and hoped for the best and i got what i worked hard for,but looking at those past years that i spent in school i realised that the school fees of your education continue increasing as you go higher and that made me realise that my parents are ageing as time passed by .&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
       <link>/posts/jake-gelynall/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/posts/jake-gelynall/</guid>
-      <description>and what i believe sir, is that good things come to those who work their asses off. and remember i would never ask you to do anything that i would do myself.</description>
+      <description>&lt;p&gt;and what i believe sir, is that good things come to those who work their asses off.
+and remember i would never ask you to do anything that i would do myself.&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Weekend After Exams Week</title>
-      <link>/jun-8th-2025-update/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/jun-8th-2025-update/</guid>
-      <description>Just finished writing my end of semester exams for year 3 semester 2, this marked the end of my 3rd year and marking the beginning of my final year next time we open. I am looking forward to the final school year, and all the opportunities and learning it will bring with it. My my internship at Probase still going, I official ran and entire semester of school on DL(Distance learning) and I&amp;rsquo;d say it wast that rough, tho yes the final exams where kinda tough but that&amp;rsquo;s how all final exams are.</description>
-    </item>
-    
-    <item>
-      <title>Weekend After Exams Week</title>
-      <link>/posts/jun-8th-2025-update/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/jun-8th-2025-update/</guid>
-      <description>Just finished writing my end of semester exams for year 3 semester 2, this marked the end of my 3rd year and marking the beginning of my final year next time we open. I am looking forward to the final school year, and all the opportunities and learning it will bring with it. My my internship at Probase still going, I official ran and entire semester of school on DL(Distance learning) and I&amp;rsquo;d say it wast that rough, tho yes the final exams where kinda tough but that&amp;rsquo;s how all final exams are.</description>
-    </item>
-    
   </channel>
 </rss>
