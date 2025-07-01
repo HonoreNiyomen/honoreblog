@@ -6,13 +6,31 @@
     <description>Recent content in Tags on Honore Niyomukiza LOB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog</title>
       <link>/tags/blog/</link>
-      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
       
       <guid>/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thoughts</title>
+      <link>/tags/thoughts/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/thoughts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>works</title>
+      <link>/tags/works/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/works/</guid>
       <description></description>
     </item>
     
@@ -31,15 +49,6 @@
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>/tags/work/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>thoughts</title>
-      <link>/tags/thoughts/</link>
-      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/thoughts/</guid>
       <description></description>
     </item>
     
@@ -94,6 +103,15 @@
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
       
       <guid>/tags/networkchuck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>night thoughts</title>
+      <link>/tags/night-thoughts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/night-thoughts/</guid>
       <description></description>
     </item>
     
